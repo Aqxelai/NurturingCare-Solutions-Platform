@@ -198,3 +198,17 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
 - If the hedge is removed for the house: add it to the tree/hedge survey (sheet 17), the biodiversity
   net gain baseline and a nesting-bird check. If it is kept, it may restrict where the house can go.
 - The old brick wall may be a retaining wall; check its condition and who owns it.
+
+## Street View screenshot from Sandyhill Road (Aug 2025, labelled "113 Sandyhill Rd")
+Qualitative only; no dimensions are read from it.
+- Plot: a grass bank behind a low brick wall with a brick-on-edge coping; the ground appears to rise
+  from the wall towards the back of the plot. This supports the officer's point 3. The wall steps
+  down along the kerb as the road falls towards Cleethorpes Avenue.
+- A street light column stands in front of the wall. It affects where a driveway or dropped kerb
+  could go (highways to confirm the cost and the Council's consent to move it).
+- A timber fence and shrubs mark the west (left) end of the plot; the boundary owner is unknown.
+- The gable of the house behind shows the two-light first-floor window and a ground-floor
+  window partly behind shrubs, consistent with the owner's statement.
+- Character (point 6): neighbouring houses are two-storey red brick with pitched roofs and some
+  gable ends facing the street, so a brick, pitched-roof house is consistent with the area. Record
+  roof pitch, eaves and ridge heights, and set-backs from the survey.
