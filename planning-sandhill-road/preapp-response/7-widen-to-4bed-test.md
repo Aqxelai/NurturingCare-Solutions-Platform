@@ -54,3 +54,11 @@ What this means:
 - Conclusion: on the building line, a 4-bed house is unlikely to fit without going up to No.1. The 2-bed (about 8 m wide) stays the lead scheme.
   If you still want more bedrooms, the options are a 3-bed in the same footprint (needs a tight layout, 84 m² two-storey minimum)
   or a bigger gap after the survey. `montage-indicative.jpg` shows the 2-bed with a yellow keep-clear strip.
+
+## 6. Update: owner confirms the house may go up to the yellow line
+- The owner says building may extend up to the yellow limit line in the montage. This gives the 4-bed about 9.6 m of width
+  (8.0 m plus about 1.6 m), which matches the 9.5 m the 4-bed plan needs.
+- Result on the rough photo scale: the 4-bed (4b5p) now fits between the west neighbour and the limit line.
+- This puts the east wall about 1.5 m closer to No.1 than the 2-bed, so the daylight test thresholds in section 2 apply with less margin.
+  The survey must give the real gap between the limit line and No.1's windows. `montage-indicative.jpg` now shows the 4-bed with the limit line.
+- If the daylight tests fail at the limit line, fall back to the 2-bed, or move the east wall back.
