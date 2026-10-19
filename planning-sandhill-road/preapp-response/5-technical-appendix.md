@@ -139,3 +139,16 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
   are both tested.
 - If either room has no other window, the side window is its only light, so the loss is more
   significant. Photographs of each room's windows are needed.
+
+## Layout idea: house on the west (left) side of the plot
+- A house kept to the west of No.1's gable is south-west, not directly south, of the side windows.
+  That helps the 25° and VSC tests, because the nearest part of the new wall is further from
+  the windows, but it does not remove the need to test. A south-west building can still cut
+  winter afternoon sun to south-facing windows (APSH test).
+- The kitchen has other light (living room and back door glazing), which lowers the weight of any loss
+  to the side window. Whether the bedroom has another window decides whether its loss is critical.
+- Side effects to test: the plot may be narrower at its west end, so check the buildable width and the
+  building line (point 4); then the effect on the neighbours on the left (privacy, overshadowing
+  of their back yards, side windows). A gap beside No.1 kept as garden or parking is a useful buffer.
+- Draw the house in two positions on sheet 03 (west and centred) with the distance to No.1's gable
+  dimensioned, then run sheet 13 on both.
