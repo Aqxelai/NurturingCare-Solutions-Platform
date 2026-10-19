@@ -35,7 +35,7 @@ with the slope. If it cannot be accommodated without major retaining structures,
 Sandyhill Road and draw it. I will set the proposed front wall back to align with it, or
 justify any difference. Aligning will reduce plot depth and floor area; the revised scheme is
 sized to the aligned line. Your email refers to properties "to the east of Sandyhill Road"; I will measure the houses
-both east and west of the plot (including the adjoining Nos. 56–60) and show both lines.
+both east and west of the plot (including the adjoining houses to the west) and show both lines.
 
 **5. Impact on No.1.** [STATE THE RELATIONSHIP: No.1 is owned by [NAME – the applicant / a person connected to the applicant]. This gives access to the side windows and the rooms they serve for measurement and photographs. It does not remove the Council's duty to assess amenity for any occupier, and I do not rely on it as a reason to approve.] I will identify the two side windows you mention and the rooms they
 serve, state separation distances, and test daylight (25-degree test and Vertical Sky

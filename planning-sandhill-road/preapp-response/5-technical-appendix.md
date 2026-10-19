@@ -212,3 +212,18 @@ Qualitative only; no dimensions are read from it.
 - Character (point 6): neighbouring houses are two-storey red brick with pitched roofs and some
   gable ends facing the street, so a brick, pitched-roof house is consistent with the area. Record
   roof pitch, eaves and ridge heights, and set-backs from the survey.
+
+## Street View screenshot looking along Sandyhill Road (building line)
+Qualitative only; the survey must measure everything.
+- The houses on the left (west of the plot) are two-storey semi-detached, brick and render, with
+  pitched roofs and solar panels. Their fronts are set back from the footway behind raised front
+  gardens and a low brick wall. The plot's frontage wall continues the same wall line.
+- This supports the officer's point 4: a house built near the plot's wall would stand well forward of
+  those fronts. Aligning with them pushes the house back up the bank, so the buildable depth, the
+  cut and the retaining wall all increase (points 3 and 4 interact). A 4-bedroom house may not fit.
+- A large shrub sits on the boundary with the west neighbour, and a timber fence stands at the back of
+  the plot. Ownership is unknown.
+- The addresses of the west neighbours need confirming. The Street View label (113 Sandyhill Rd) does
+  not match the house numbers on the aerial (56, 58, 60).
+- For the street scene (point 6): the neighbours' ridge and eaves heights and the front garden levels
+  must be surveyed so the new house can be drawn to scale beside them.
