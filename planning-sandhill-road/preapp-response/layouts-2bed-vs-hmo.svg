@@ -1,78 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 940" width="700" height="940" font-family="Arial,Helvetica,sans-serif">
-<rect width="700" height="940" fill="#fff"/><rect x="4" y="4" width="692" height="932" fill="none" stroke="#000" stroke-width="2"/>
-<text x="20" y="30" font-size="15" font-weight="bold">NOTIONAL LAYOUTS – 2-BED HOUSE vs HMO (concept only)</text>
-<text x="20" y="48" font-size="11" fill="#c00">Not to scale for planning. Each floor is a notional 5.5 × 7.3 m internal block (≈40 m²), NOT fitted to the site.</text>
-<text x="20" y="62" font-size="11" fill="#c00">Plot size, levels and No.1 windows are [TO BE SURVEYED]. Sizes are design targets, not measurements.</text>
-<text x="20" y="84" font-size="10">2-bed: 2b4p, GIA ≈ 80 m² vs NDSS minimum 79 m².  HMO: 4 bedrooms, 4 people.</text>
-<text x="40" y="98" font-size="13" font-weight="bold">2-BED HOUSE – GROUND FLOOR</text>
-<rect x="40" y="110" width="220.0" height="292.0" fill="#fff" stroke="#000" stroke-width="3"/>
-<rect x="40" y="242.0" width="132.0" height="160.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
-<text x="106.0" y="320.0" font-size="10" font-weight="bold" text-anchor="middle">LIVING</text>
-<text x="106.0" y="333.0" font-size="10" text-anchor="middle">13.2 m² (3.3×4.0)</text>
-<rect x="40" y="110" width="220.0" height="132.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
-<text x="150.0" y="174.0" font-size="10" font-weight="bold" text-anchor="middle">KITCHEN / DINING</text>
-<text x="150.0" y="187.0" font-size="10" text-anchor="middle">18.1 m² (5.5×3.3)</text>
-<rect x="172.0" y="298.0" width="88.0" height="104.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
-<text x="216.0" y="348.0" font-size="10" font-weight="bold" text-anchor="middle">HALL + STAIRS</text>
-<text x="216.0" y="361.0" font-size="10" text-anchor="middle">5.7 m² (2.2×2.6)</text>
-<rect x="172.0" y="242.0" width="88.0" height="56.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
-<text x="216.0" y="268.0" font-size="10" font-weight="bold" text-anchor="middle">WC</text>
-<text x="216.0" y="281.0" font-size="10" text-anchor="middle">3.1 m² (2.2×1.4)</text>
-<text x="40" y="418.0" font-size="10">Internal area ≈ 40.1 m²  ·  street (south) at bottom</text>
-<text x="40" y="432.0" font-size="10" fill="#555">Open-plan living, WC, entrance hall</text>
-<text x="380" y="98" font-size="13" font-weight="bold">2-BED HOUSE – FIRST FLOOR</text>
-<rect x="380" y="110" width="220.0" height="292.0" fill="#fff" stroke="#000" stroke-width="3"/>
-<rect x="380" y="254.0" width="132.0" height="148.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="446.0" y="326.0" font-size="10" font-weight="bold" text-anchor="middle">BED 1 (double)</text>
-<text x="446.0" y="339.0" font-size="10" text-anchor="middle">12.2 m² (3.3×3.7)</text>
-<rect x="380" y="110" width="132.0" height="144.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="446.0" y="180.0" font-size="10" font-weight="bold" text-anchor="middle">BED 2 (double)</text>
-<text x="446.0" y="193.0" font-size="10" text-anchor="middle">11.9 m² (3.3×3.6)</text>
-<rect x="512.0" y="110" width="88.0" height="96.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
-<text x="556.0" y="156.0" font-size="10" font-weight="bold" text-anchor="middle">BATH</text>
-<text x="556.0" y="169.0" font-size="10" text-anchor="middle">5.3 m² (2.2×2.4)</text>
-<rect x="512.0" y="206.0" width="88.0" height="40.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
-<text x="556.0" y="224.0" font-size="10" font-weight="bold" text-anchor="middle">STORE</text>
-<text x="556.0" y="237.0" font-size="10" text-anchor="middle">2.2 m² (2.2×1.0)</text>
-<rect x="512.0" y="246.0" width="88.0" height="156.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
-<text x="556.0" y="322.0" font-size="10" font-weight="bold" text-anchor="middle">LANDING + STAIRS</text>
-<text x="556.0" y="335.0" font-size="10" text-anchor="middle">8.6 m² (2.2×3.9)</text>
-<text x="380" y="418.0" font-size="10">Internal area ≈ 40.1 m²  ·  street (south) at bottom</text>
-<text x="380" y="432.0" font-size="10" fill="#555">Two doubles ≥11.5 m², bathroom, 2 m² storage</text>
-<text x="40" y="508" font-size="13" font-weight="bold">HMO (4 PEOPLE) – GROUND FLOOR</text>
-<rect x="40" y="520" width="220.0" height="292.0" fill="#fff" stroke="#000" stroke-width="3"/>
-<rect x="40" y="664.0" width="124.0" height="148.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="102.0" y="736.0" font-size="10" font-weight="bold" text-anchor="middle">BED 1</text>
-<text x="102.0" y="749.0" font-size="10" text-anchor="middle">11.5 m² (3.1×3.7)</text>
-<rect x="40" y="520" width="220.0" height="144.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
-<text x="150.0" y="590.0" font-size="10" font-weight="bold" text-anchor="middle">SHARED KITCHEN / LIVING</text>
-<text x="150.0" y="603.0" font-size="10" text-anchor="middle">19.8 m² (5.5×3.6)</text>
-<rect x="164.0" y="708.0" width="96.0" height="104.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
-<text x="212.0" y="758.0" font-size="10" font-weight="bold" text-anchor="middle">HALL + STAIRS</text>
-<text x="212.0" y="771.0" font-size="10" text-anchor="middle">6.2 m² (2.4×2.6)</text>
-<rect x="164.0" y="664.0" width="96.0" height="44.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
-<text x="212.0" y="684.0" font-size="10" font-weight="bold" text-anchor="middle">SHOWER / WC</text>
-<text x="212.0" y="697.0" font-size="10" text-anchor="middle">2.6 m² (2.4×1.1)</text>
-<text x="40" y="828.0" font-size="10">Internal area ≈ 40.2 m²  ·  street (south) at bottom</text>
-<text x="40" y="842.0" font-size="10" fill="#555">One bedroom, shared kitchen/living, shower room</text>
-<text x="380" y="508" font-size="13" font-weight="bold">HMO (4 PEOPLE) – FIRST FLOOR</text>
-<rect x="380" y="520" width="220.0" height="292.0" fill="#fff" stroke="#000" stroke-width="3"/>
-<rect x="380" y="716.0" width="124.0" height="96.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="442.0" y="762.0" font-size="10" font-weight="bold" text-anchor="middle">BED 2</text>
-<text x="442.0" y="775.0" font-size="10" text-anchor="middle">7.4 m² (3.1×2.4)</text>
-<rect x="380" y="618.0" width="124.0" height="98.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="442.0" y="665.0" font-size="10" font-weight="bold" text-anchor="middle">BED 3</text>
-<text x="442.0" y="678.0" font-size="10" text-anchor="middle">7.6 m² (3.1×2.5)</text>
-<rect x="380" y="520" width="124.0" height="98.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
-<text x="442.0" y="567.0" font-size="10" font-weight="bold" text-anchor="middle">BED 4</text>
-<text x="442.0" y="580.0" font-size="10" text-anchor="middle">7.6 m² (3.1×2.5)</text>
-<rect x="504.0" y="520" width="96.0" height="98.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
-<text x="552.0" y="567.0" font-size="10" font-weight="bold" text-anchor="middle">BATH</text>
-<text x="552.0" y="580.0" font-size="10" text-anchor="middle">5.9 m² (2.4×2.5)</text>
-<rect x="504.0" y="618.0" width="96.0" height="194.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
-<text x="552.0" y="713.0" font-size="10" font-weight="bold" text-anchor="middle">LANDING + STAIRS</text>
-<text x="552.0" y="726.0" font-size="10" text-anchor="middle">11.6 m² (2.4×4.8)</text>
-<text x="380" y="828.0" font-size="10">Internal area ≈ 40.1 m²  ·  street (south) at bottom</text>
-<text x="380" y="842.0" font-size="10" fill="#555">Three bedrooms, bathroom</text>
-<text x="20" y="925" font-size="10" fill="#555">HMO bedroom sizes meet the 6.51 m² licensing minimum but are below the 7.5 m² single in the NDSS; check Manchester's HMO standards.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 700" width="760" height="700" font-family="Arial,Helvetica,sans-serif">
+<rect width="760" height="700" fill="#fff"/><rect x="4" y="4" width="752" height="692" fill="none" stroke="#000" stroke-width="2"/>
+<text x="20" y="30" font-size="15" font-weight="bold">NOTIONAL FLOOR PLANS – 2-BED HOUSE vs 4-PERSON HMO (concept only)</text>
+<text x="20" y="48" font-size="11" fill="#c00">Drawn at 40 px per metre. Each floor is a notional 7.3 × 5.5 m internal block (≈40 m²), long side to the street. NOT fitted to the site.</text>
+<text x="20" y="62" font-size="11" fill="#c00">Plot size, levels and No.1's windows are [TO BE SURVEYED]. Room sizes are design targets, not measurements.</text>
+<text x="20" y="80" font-size="10">2-bed: GIA ≈ 80 m² (NDSS 2b4p min 79); both doubles 11.55 m² × 2.75 m. HMO: bedrooms 6.6–8.3 m² (licensing min 6.51 m²; below NDSS 7.5 m² single).</text>
+<text x="40" y="110" font-size="13" font-weight="bold">2-BED HOUSE – GROUND FLOOR</text>
+<rect x="40" y="120" width="292.0" height="220.0" fill="#fff" stroke="#000" stroke-width="3"/>
+<rect x="40" y="120" width="292.0" height="96.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
+<text x="186.0" y="166.0" font-size="10" font-weight="bold" text-anchor="middle">KITCHEN / DINING</text><text x="186.0" y="179.0" font-size="10" text-anchor="middle">17.5 m² (7.3×2.4)</text>
+<rect x="40" y="216.0" width="168.0" height="124.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
+<text x="124.0" y="276.0" font-size="10" font-weight="bold" text-anchor="middle">LIVING</text><text x="124.0" y="289.0" font-size="10" text-anchor="middle">13.0 m² (4.2×3.1)</text>
+<rect x="208.0" y="216.0" width="124.0" height="40.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
+<text x="270.0" y="234.0" font-size="10" font-weight="bold" text-anchor="middle">WC</text><text x="270.0" y="247.0" font-size="10" text-anchor="middle">3.1 m² (3.1×1.0)</text>
+<rect x="208.0" y="256.0" width="124.0" height="84.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="270.0" y="296.0" font-size="10" font-weight="bold" text-anchor="middle">HALL + STAIRS</text><text x="270.0" y="309.0" font-size="10" text-anchor="middle">6.5 m² (3.1×2.1)</text>
+<text x="40" y="355.0" font-size="10">Internal ≈ 40.1 m² · street (south) at bottom · living, WC, hall</text>
+<text x="40" y="410" font-size="13" font-weight="bold">2-BED HOUSE – FIRST FLOOR</text>
+<rect x="40" y="420" width="292.0" height="220.0" fill="#fff" stroke="#000" stroke-width="3"/>
+<rect x="40" y="420" width="168.0" height="110.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="124.0" y="473.0" font-size="10" font-weight="bold" text-anchor="middle">BED 2 (double)</text><text x="124.0" y="486.0" font-size="10" text-anchor="middle">11.6 m² (4.2×2.8)</text>
+<rect x="40" y="530.0" width="168.0" height="110.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="124.0" y="583.0" font-size="10" font-weight="bold" text-anchor="middle">BED 1 (double)</text><text x="124.0" y="596.0" font-size="10" text-anchor="middle">11.6 m² (4.2×2.8)</text>
+<rect x="208.0" y="420" width="124.0" height="80.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
+<text x="270.0" y="458.0" font-size="10" font-weight="bold" text-anchor="middle">BATH</text><text x="270.0" y="471.0" font-size="10" text-anchor="middle">6.2 m² (3.1×2.0)</text>
+<rect x="208.0" y="500.0" width="124.0" height="28.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="270.0" y="512.0" font-size="10" font-weight="bold" text-anchor="middle">STORE</text><text x="270.0" y="525.0" font-size="10" text-anchor="middle">2.2 m² (3.1×0.7)</text>
+<rect x="208.0" y="528.0" width="124.0" height="112.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="270.0" y="582.0" font-size="10" font-weight="bold" text-anchor="middle">LANDING + STAIRS</text><text x="270.0" y="595.0" font-size="10" text-anchor="middle">8.7 m² (3.1×2.8)</text>
+<text x="40" y="655.0" font-size="10">Internal ≈ 40.1 m² · street (south) at bottom · 2 doubles, bath, store</text>
+<text x="400" y="110" font-size="13" font-weight="bold">HMO (4 PEOPLE) – GROUND FLOOR</text>
+<rect x="400" y="120" width="292.0" height="220.0" fill="#fff" stroke="#000" stroke-width="3"/>
+<rect x="400" y="120" width="292.0" height="104.0" fill="#f4efe3" stroke="#222" stroke-width="1.5"/>
+<text x="546.0" y="170.0" font-size="10" font-weight="bold" text-anchor="middle">SHARED KITCHEN / LIVING</text><text x="546.0" y="183.0" font-size="10" text-anchor="middle">19.0 m² (7.3×2.6)</text>
+<rect x="400" y="224.0" width="120.0" height="116.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="460.0" y="280.0" font-size="10" font-weight="bold" text-anchor="middle">BED 1</text><text x="460.0" y="293.0" font-size="10" text-anchor="middle">8.7 m² (3.0×2.9)</text>
+<rect x="520.0" y="224.0" width="56.0" height="116.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
+<text x="548.0" y="280.0" font-size="10" font-weight="bold" text-anchor="middle">SHOWER</text><text x="548.0" y="293.0" font-size="10" text-anchor="middle">4.1 m² (1.4×2.9)</text>
+<rect x="576.0" y="224.0" width="116.0" height="116.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="634.0" y="280.0" font-size="10" font-weight="bold" text-anchor="middle">HALL + STAIRS</text><text x="634.0" y="293.0" font-size="10" text-anchor="middle">8.4 m² (2.9×2.9)</text>
+<text x="400" y="355.0" font-size="10">Internal ≈ 40.1 m² · street (south) at bottom · 1 bed, shared kitchen/living</text>
+<text x="400" y="410" font-size="13" font-weight="bold">HMO (4 PEOPLE) – FIRST FLOOR</text>
+<rect x="400" y="420" width="292.0" height="220.0" fill="#fff" stroke="#000" stroke-width="3"/>
+<rect x="400" y="420" width="120.0" height="110.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="460.0" y="473.0" font-size="10" font-weight="bold" text-anchor="middle">BED 2</text><text x="460.0" y="486.0" font-size="10" text-anchor="middle">8.2 m² (3.0×2.8)</text>
+<rect x="400" y="530.0" width="120.0" height="110.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="460.0" y="583.0" font-size="10" font-weight="bold" text-anchor="middle">BED 3</text><text x="460.0" y="596.0" font-size="10" text-anchor="middle">8.2 m² (3.0×2.8)</text>
+<rect x="520.0" y="420" width="96.0" height="110.0" fill="#f7e7d3" stroke="#222" stroke-width="1.5"/>
+<text x="568.0" y="473.0" font-size="10" font-weight="bold" text-anchor="middle">BED 4</text><text x="568.0" y="486.0" font-size="10" text-anchor="middle">6.6 m² (2.4×2.8)</text>
+<rect x="520.0" y="530.0" width="96.0" height="74.0" fill="#e3eef7" stroke="#222" stroke-width="1.5"/>
+<text x="568.0" y="565.0" font-size="10" font-weight="bold" text-anchor="middle">BATH</text><text x="568.0" y="578.0" font-size="10" text-anchor="middle">4.4 m² (2.4×1.9)</text>
+<rect x="520.0" y="604.0" width="96.0" height="36.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="568.0" y="620.0" font-size="10" font-weight="bold" text-anchor="middle">STORE</text><text x="568.0" y="633.0" font-size="10" text-anchor="middle">2.2 m² (2.4×0.9)</text>
+<rect x="616.0" y="420" width="76.0" height="220.0" fill="#eee" stroke="#222" stroke-width="1.5"/>
+<text x="654.0" y="528.0" font-size="10" font-weight="bold" text-anchor="middle">LANDING + STAIRS</text><text x="654.0" y="541.0" font-size="10" text-anchor="middle">10.4 m² (1.9×5.5)</text>
+<text x="400" y="655.0" font-size="10">Internal ≈ 40.2 m² · street (south) at bottom · 3 beds, bath</text>
 </svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Arial,Helvetica,sans-serif">
+<rect width="900" height="420" fill="#fff"/><rect x="4" y="4" width="892" height="412" fill="none" stroke="#000" stroke-width="2"/>
+<text x="20" y="28" font-size="15" font-weight="bold">NOTIONAL ELEVATIONS – 2-STOREY HOUSE (drawn at 40 px per metre, about 1:95)</text>
+<text x="20" y="45" font-size="11" fill="#c00">Concept only. Heights, openings and materials are design assumptions (35° pitch, 5 m eaves), NOT surveyed. Ridge to be set against the neighbours [TO BE SURVEYED].</text>
+<text x="60" y="92" font-size="13" font-weight="bold">FRONT ELEVATION (to Sandyhill Road)</text>
+<line x1="30" y1="396.82573473800403" x2="410.0" y2="396.82573473800403" stroke="#000" stroke-width="2"/>
+<rect x="60" y="196.82573473800403" width="320.0" height="200.0" fill="#b5654a" stroke="#222" stroke-width="2"/>
+<polygon points="50,196.82573473800403 390.0,196.82573473800403 390.0,110.0 50,110.0" fill="#55555d" stroke="#222" stroke-width="2"/>
+<rect x="92.0" y="300.82573473800403" width="103.99999999999999" height="60.0" fill="#bcd4e6" stroke="#222" stroke-width="1.5"/>
+<rect x="92.0" y="212.82573473800403" width="103.99999999999999" height="51.99999999999999" fill="#bcd4e6" stroke="#222" stroke-width="1.5"/>
+<rect x="280.0" y="212.82573473800403" width="40.0" height="51.99999999999999" fill="#bcd4e6" stroke="#222" stroke-width="1.5"/>
+<rect x="276.0" y="312.82573473800403" width="40.0" height="84.0" fill="#7a5a3a" stroke="#222" stroke-width="1.5"/>
+<text x="416.0" y="196.82573473800403" font-size="10">eaves ≈ 5.0 m</text><text x="416.0" y="120.0" font-size="10">ridge ≈ 7.2 m</text>
+<text x="60" y="412.82573473800403" font-size="10">width ≈ 8.0 m (notional)</text>
+<text x="560" y="92" font-size="13" font-weight="bold">SIDE ELEVATION (gable)</text>
+<line x1="530" y1="396.82573473800403" x2="838.0" y2="396.82573473800403" stroke="#000" stroke-width="2"/>
+<rect x="560" y="196.82573473800403" width="248.0" height="200.0" fill="#b5654a" stroke="#222" stroke-width="2"/>
+<polygon points="560,196.82573473800403 808.0,196.82573473800403 684.0,110.0" fill="#b5654a" stroke="#222" stroke-width="2"/>
+<rect x="600.0" y="300.82573473800403" width="64.0" height="60.0" fill="#bcd4e6" stroke="#222" stroke-width="1.5"/>
+<rect x="704.0" y="212.82573473800403" width="64.0" height="51.99999999999999" fill="#bcd4e6" stroke="#222" stroke-width="1.5"/>
+<text x="844.0" y="196.82573473800403" font-size="10">eaves ≈ 5.0 m</text><text x="844.0" y="120.0" font-size="10">ridge ≈ 7.2 m</text>
+<text x="560" y="412.82573473800403" font-size="10">width ≈ 6.2 m (notional)</text>
+</svg>

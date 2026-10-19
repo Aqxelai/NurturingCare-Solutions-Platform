@@ -324,3 +324,13 @@ Chosen at the owner's request to propose whatever is most likely to be accepted.
 - Gradient and surface: the forecourt needs a gradient highways accepts (limit not verified); the bank
   must be cut back and the wall rebuilt. Use permeable paving.
 - Planning gain: two spaces answer the likely highways concern better than one.
+
+## Drawings and visual added (notional)
+- `layouts-2bed-vs-hmo`: floor plans rotated so the long side (7.3 m internal) faces the street and the block is
+  5.5 m deep, because the plot is shallow.
+- `elevations-notional`: front and side elevations of a two-storey house (assumed 5.0 m eaves, 35° pitch,
+  about 7.2 m ridge, about 8.0 × 6.2 m outside). All values are design assumptions.
+- `visual-illustrative`: a diagrammatic view from the south-east. Illustration only, not for the application.
+- Siting warning: my rough aerial check found little plot depth behind the neighbours' building line at the west
+  end, so the house probably cannot sit at the extreme west end. In the visual it is placed mid-plot. The survey
+  decides the position, and a house nearer No.1 would need the daylight tests to pass.
