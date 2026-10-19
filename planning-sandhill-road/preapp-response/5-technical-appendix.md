@@ -108,3 +108,26 @@ Council still objects: ask for the reasons in writing; ask whether a redesign co
 them; consider a paid formal pre-application or a planning application (right of appeal after
 refusal); consider other uses for the land (garden/amenity purchase, parking) with the
 Council's Property Transactions team.
+
+## Site photo observations (photo of the plot from the Sandyhill Road footway; qualitative only)
+No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
+- The plot is a raised, domed grass mound behind a brick retaining wall with a metal handrail, then
+  the footway. The wall's coping steps down towards the right of the photo, so the ground falls
+  that way. This supports the officer's point 3: building would need the mound cut back or the
+  wall rebuilt, and the wall is existing Council structure whose height, condition and ownership
+  need checking.
+- Tall hedge and shrubs run along the back of the plot, in front of No.1's gable. Who owns and
+  maintains them is unknown. They screen the lower part of No.1's side wall, so a ground-floor
+  window there cannot be seen. The photo shows one first-floor two-light window in the gable.
+  The officer says there are two, so the other must be confirmed (probably ground floor, behind the hedge).
+- On the footway at the left of the plot are a utility cabinet and a bin. Any new driveway
+  would need to avoid, or relocate, services and cross the retaining wall and a raised footway.
+- A tower block and a house with a roof of solar panels are visible beyond the plot. Neither is a
+  precedent for a two-storey house of this size on a corner, but both belong in the street-scene analysis.
+
+## Occupancy update: 4–5 bedrooms
+- 4b5p two-storey needs at least 97 m² GIA (about 49 m² per floor plus walls).
+- Any five-bedroom type needs more than 4b5p; check the figures in the Nationally Described Space
+  Standard before quoting them.
+- A larger house makes points 3–5 harder. Say plainly in the pre-application that this size is the
+  hardest case for the plot, and consider asking the officer about a three-bedroom alternative.
