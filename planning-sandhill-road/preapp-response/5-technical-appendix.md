@@ -246,3 +246,20 @@ Qualitative only; the survey must measure everything.
 - If the house is built partly on this garden, the red line includes it, and the earlier risks apply: loss of
   garden for No.1, light to No.1's rear windows, and the officer's view on garden development.
 - Use the owner's tape measurements only as a first estimate; draw nothing at scale until surveyed.
+
+## Desk check from the aerial image (rough; NOT for submission)
+Method: the aerial has no scale bar, so I used the parked cars (assumed about 4.3 m long) as a
+ruler. Error is probably 25–30% or more. Replace every figure with the survey.
+- Plot frontage to Sandyhill Road: roughly 20–25 m. Depth from the kerb to the rear boundary: roughly
+  8–12 m, deepest at the east (Cleethorpes Avenue) end and shallowest at the west end.
+- Neighbours' front walls to the west: roughly 6–7 m back from the kerb.
+- Result: the neighbours' building line, if extended across, passes through the rear part of the
+  plot. At the west end almost no plot lies behind it; at the east end more does, but that is next to No.1's
+  gable and windows. So aligning to the building line leaves a small wedge, which would not hold a
+  4-bedroom house (about 49 m² per floor plus walls).
+- This is why using No.1's garden to the north-west matters: the house needs that extra depth to sit on
+  the building line. It also moves the house towards No.1's rear windows and the garden's
+  other boundaries, so those tests become critical.
+- If the survey agrees, the realistic choices are: a 4-bedroom house using part of No.1's garden, with its
+  light, privacy and garden-size tests passing; a smaller house; or ask the officer to accept a
+  building line forward of the neighbours (unlikely, given her comment).
