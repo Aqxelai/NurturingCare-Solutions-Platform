@@ -227,3 +227,13 @@ Qualitative only; the survey must measure everything.
   not match the house numbers on the aerial (56, 58, 60).
 - For the street scene (point 6): the neighbours' ridge and eaves heights and the front garden levels
   must be surveyed so the new house can be drawn to scale beside them.
+
+## What the photos show of No.1's windows (visual reading only)
+- Two windows are stacked one above the other on the gable: a two-light window at first floor and a
+  ground-floor window directly below it, partly hidden by shrubs. This matches the owner's statement
+  (bedroom above, kitchen below).
+- A smaller window appears near the left corner of the gable in the Street View images. Its room is
+  unknown (possibly stairs or landing); ask the owner.
+- Sizes and heights cannot be taken from these photos because of perspective and the shrubs. Use the
+  surveyor's measurements. A straight-on photo of the gable from the footway, with a tape or
+  a 1 m rule held against the wall, would let the surveyor check the sizes quickly.
