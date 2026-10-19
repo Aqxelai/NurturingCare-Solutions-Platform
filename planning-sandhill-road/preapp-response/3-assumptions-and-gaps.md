@@ -37,7 +37,7 @@
 | 9 | Proposed house sits on the west (left) side of the plot, leaving the land beside No.1's side wall as garden/parking; the land to its left is back yards of neighbouring houses | Owner's layout idea | House may not fit the narrower west end of the plot; overlooking and overshadowing of the west neighbours not yet tested |
 | 10 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 
-| 11 | Intended house: 4 bedrooms. Persons assumed 5 (4b5p, 97 m²) because bedrooms 2–4 are single size; 6 persons would need two doubles and 106 m² | Owner's answer | Space standard fails |
+| 11 | SUPERSEDED: scheme is now a two-storey 2b4p house (see appendix). Earlier: 4 bedrooms. Persons assumed 5 (4b5p, 97 m²) because bedrooms 2–4 are single size; 6 persons would need two doubles and 106 m² | Owner's answer | Space standard fails |
 
 | 12a | CORRECTED: No.1's garden is NOT part of the site and will not be built on. The red line stays on the Council's plot only. The garden's length (end of No.1 to the timber fence) is used only as a measuring reference for the plot | Owner's clarification | Red line wrong if garden were included |
 | 12 | (Withdrawn) The idea of adding No.1's back yard to the red line is dropped | Owner | – |

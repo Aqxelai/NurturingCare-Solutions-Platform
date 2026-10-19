@@ -291,3 +291,19 @@ The owner has clarified that the house will not be built on No.1's garden. This 
 - Levels: a forecourt near footway level means cutting the bank back and rebuilding the wall; this
   affects cut and fill (point 3). Hardstanding also removes grassland (biodiversity net gain
   baseline) and adds surface water: consider permeable paving.
+
+## SCHEME CHOSEN FOR THE SECOND PRE-APPLICATION (supersedes the 4-bedroom decision)
+Chosen at the owner's request to propose whatever is most likely to be accepted. No approval is guaranteed.
+- **House:** two-storey, 2 bedrooms, 4 persons (2b4p): at least 79 m² GIA, so about 40 m² per floor plus
+  walls (derived from the standard, not measured). Brick, pitched roof, ridge no higher than the west
+  neighbours' [TO BE SURVEYED].
+- **Siting:** west end of the plot, front wall on the neighbours' building line, gap left beside No.1
+  so the house is south-west of its windows, not directly south. Front forecourt for parking.
+- **Why this is the best chance:** it answers the officer's points as far as the evidence allows. It
+  needs a small footprint (building-line wedge), keeps height and mass in line with the semis (character),
+  sits away from No.1's windows (daylight) and avoids a big retaining structure.
+- **Not guaranteed:** the bedroom's side window is its only light, and the slope and window
+  tests are unmeasured. If the survey or sheet 13 fail it, use the fallback: single-storey 2b3p
+  (61 m² on one floor), or no development.
+- **Why not the 4-bedroom house:** it needs about 49 m² per floor plus walls on a small wedge, with a large
+  mass beside No.1; the officer already doubts the site. I have not used it as the lead scheme.
