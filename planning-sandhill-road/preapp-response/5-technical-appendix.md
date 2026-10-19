@@ -342,3 +342,23 @@ Chosen at the owner's request to propose whatever is most likely to be accepted.
   white windows, dark pitched roof with solar panels and a ridge parallel to the street. Roof, height and
   materials must still be matched to the surveyed neighbours.
 - The earlier warning stands: the survey must show whether enough plot lies behind that line at the west end.
+
+## Unused land on the east side of the plot: options
+1. Keep it open and landscaped (recommended for now). It protects the light to No.1's windows, keeps junction
+   visibility, and can hold bins, cycles, planting and drainage. On-site habitat counts towards biodiversity net gain.
+2. Widen the house along the front line (a 3-bedroom house on the same depth). This adds floor area without
+   more depth, but moves the house towards No.1; the daylight tests decide whether it is allowed.
+3. Two houses (a semi-detached pair matching the neighbours). A different proposal needing a new pre-application,
+   more parking and a stronger case on light, junction and levels. Not recommended at this stage.
+4. Buy only the part needed. Ask Property Transactions whether the Council will sell a smaller parcel; this
+   cuts the price but the Council may insist on selling the whole plot.
+5. Use part as a small private garden to answer the officer's outdoor-space question.
+
+## Precedent search (no verified match found)
+- Searches for approved single dwellings on Council-owned corner plots in Blackley found no confirmed approval.
+- One lead: a two-storey detached house on land next to 200 Blackley New Road (after demolishing a garage), listed
+  as received. Its outcome and land ownership are unverified.
+- Appeals elsewhere (Gateshead, Tameside) show inspectors weigh a neighbour's side-elevation window, outlook and
+  daylight carefully; the Gateshead case about a new house beside a neighbour's side window went against the proposal.
+- To find real precedents: search Manchester's planning register for "dwellinghouse" with "land adjacent to" in M9, and
+  the Planning Inspectorate appeals database for Manchester City Council, then read the officer reports.
