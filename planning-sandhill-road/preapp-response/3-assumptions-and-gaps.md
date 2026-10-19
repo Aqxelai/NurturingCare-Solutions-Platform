@@ -10,7 +10,7 @@
 | 4 | Building-line offsets of neighbours from kerb/boundary (east and west) | 4 |
 | 5 | Plot widths, ridge and eaves heights, roof types, materials of neighbours | 6 |
 | 6 | No.1: footprint, side-wall position, distance to the boundary | 2, 5 |
-| 7 | The two side windows: position, sill/head heights, size, glazing, room served | 5 |
+| 7 | The two side windows: position, sill/head heights, size, glazing. Rooms served (reported by the owner, not yet photographed): ground floor = kitchen, first floor = bedroom (the second bedroom's other windows, if any, unknown) | 5 |
 | 8 | Eaves and ridge height of any proposed house, and FFL | 3, 5 |
 | 9 | Retaining-wall heights, cut and fill volumes | 3 |
 | 10 | Tree positions, species, canopy and root protection area (rear bushes) | 8 |
@@ -31,7 +31,8 @@
 | 4 | The earlier plot (about 20.5 × 9.3 m) and house (8.2 × 6.8 m, 110 m² GIA) are concept estimates, not measured | Earlier sheets | Do not repeat them in the application |
 | 5 | The officer's "properties to the east of Sandyhill Road" may mean Nos. 52/54 across Cleethorpes Avenue or the adjoining Nos. 56–60 to the west | Aerial | Wrong building line |
 | 6 | A 9.3 m² bedroom is a single (7.5 m² minimum). 4b5p therefore needs one double (11.5 m², 2.75 m wide) plus three singles | NDSS | Occupancy label rejected |
-| 7 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
+| 7 | No.1 is an end-terrace 2-bedroom house owned by the user; side windows serve the kitchen (ground) and a bedroom (first). The photo shows one first-floor two-light window; the ground-floor one is hidden by the hedge | Owner's statement and photo | Wrong room weighting in BRE tests |
+| 8 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |
@@ -50,5 +51,5 @@
 3. Can you photograph No.1's side windows (outside) and say what rooms they serve?
 4. How many people is the house for?
 5. Are you the applicant, or connected to her? Is No.1 lived in by you, or let (and is it one house or flats)?
-6. What rooms do the two side windows serve, and are they the only light to those rooms?
+6. Do the kitchen and the bedroom have any other windows (front or rear)? If not, the side windows are their only light and the tests will be harder to pass.
 7. What is your budget for survey, architect and daylight report?

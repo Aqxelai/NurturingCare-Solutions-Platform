@@ -131,3 +131,11 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
   Standard before quoting them.
 - A larger house makes points 3–5 harder. Say plainly in the pre-application that this size is the
   hardest case for the plot, and consider asking the officer about a three-bedroom alternative.
+
+## No.1 side windows: rooms served (owner's statement)
+- Ground floor: kitchen. First floor: bedroom (the two-light window in the photo).
+- BRE 209 counts kitchens and bedrooms as habitable rooms; living rooms, kitchens and bedrooms
+  carry more weight than bathrooms or landings. A kitchen's daylight and a bedroom's sunlight
+  are both tested.
+- If either room has no other window, the side window is its only light, so the loss is more
+  significant. Photographs of each room's windows are needed.
