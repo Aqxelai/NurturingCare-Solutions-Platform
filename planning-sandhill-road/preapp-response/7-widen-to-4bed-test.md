@@ -42,3 +42,15 @@ What this means:
 - The risk is entirely daylight to No.1's two windows, and the building-line and levels points still apply.
 - Next step: the surveyor gives the window positions and levels. Then I run the 25° and VSC tests for the 2-bed and
   4-bed positions and tell you which, if either, passes.
+
+## 5. Update: rule "do not go towards No.1"
+- Rule adopted: the house's east wall stays where the 2-bed's east wall is, and a clear strip is kept next to No.1.
+  The 4-bed's extra 1.5 m of width would then have to go west.
+- Rough check on the Street View photo (scale taken from a neighbour's door height, so perhaps 25% out): between the end of
+  the west neighbour's semi and No.1's gable there is room for about one 8 m wide house plus a small clear strip each side.
+  A 9.5 m wide house would touch the neighbour or push towards No.1.
+- Fitting a fourth bedroom in the roof would not work at a 35° pitch without raising the ridge or adding large dormers, and a
+  higher roof is worse for No.1's light.
+- Conclusion: on the building line, a 4-bed house is unlikely to fit without going up to No.1. The 2-bed (about 8 m wide) stays the lead scheme.
+  If you still want more bedrooms, the options are a 3-bed in the same footprint (needs a tight layout, 84 m² two-storey minimum)
+  or a bigger gap after the survey. `montage-indicative.jpg` shows the 2-bed with a yellow keep-clear strip.
