@@ -162,3 +162,11 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
   by calculation that the loss is within BRE limits. If it cannot, reduce height, reduce the
   footprint, or increase the gap. Alternatively, the owner could add or change a window to this
   bedroom (check permitted development and any Article 4 direction).
+
+## Decision: 4 bedrooms
+- 4b5p two-storey: at least 97 m² GIA, about 49 m² per floor plus walls. 4b6p: 106 m².
+- Test this first: 4 bedrooms on the west side of the plot, lower ridge, building line from the survey, a
+  gap beside No.1. Three outcomes after survey and tests: it fits and passes (go to the
+  second pre-application); it fits but fails sheet 13 (lower the ridge or reduce footprint); it will
+  not fit the west end at the building line (fall back to Option B, a 2–3 bed house).
+- Tell the officer plainly that the four-bedroom house is the hardest case for points 3–5.

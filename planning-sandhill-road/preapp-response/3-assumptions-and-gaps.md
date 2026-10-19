@@ -36,6 +36,8 @@
 | 9 | Proposed house sits on the west (left) side of the plot, leaving the land beside No.1's side wall as garden/parking; the land to its left is back yards of neighbouring houses | Owner's layout idea | House may not fit the narrower west end of the plot; overlooking and overshadowing of the west neighbours not yet tested |
 | 10 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 
+| 11 | Intended house: 4 bedrooms. Persons assumed 5 (4b5p, 97 m²) because bedrooms 2–4 are single size; 6 persons would need two doubles and 106 m² | Owner's answer | Space standard fails |
+
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |
 |---|---|

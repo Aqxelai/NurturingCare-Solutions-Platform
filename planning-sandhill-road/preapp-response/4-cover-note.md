@@ -11,10 +11,10 @@ This is a request for a second pre-application opinion. It is **not** a planning
 3. Topographical survey (00) and sheets 01–08 and 12: [DELETE ANY NOT READY].
 
 **Scheme for discussion**
-The 2-storey, 4-bedroom concept in the first pre-application is withdrawn. The scheme for
-discussion is [OPTION B – reduced dwelling of [BEDROOMS/PERSONS], [STOREYS], set back to the
-building line and away from No.1 / OPTION C]. Option A (two-storey, four bedrooms) is not
-promoted unless the BRE 209 tests show it passes.
+The first concept is replaced. The scheme for discussion is a revised 4-bedroom, [5-person]
+house sited on the west side of the plot, with a lower ridge and set to the building line. If
+the tests fail, fallback: [OPTION B – reduced dwelling of [BEDROOMS/PERSONS], [STOREYS], set back to the
+building line and away from No.1 / OPTION C]. The four-bedroom house is promoted only if the BRE 209 tests show it passes.
 
 **What I would like from the meeting**
 - Your view on whether the reduced scheme overcomes the concerns about levels, building line

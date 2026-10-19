@@ -42,15 +42,15 @@ serve, state separation distances, and test daylight (25-degree test and Vertica
 Component) and sunlight (annual and winter probable sunlight hours) against BRE 209, with
 overshadowing diagrams. I recognise that a house to the south of No.1 may well reduce light to
 windows facing it. If the tests fail, I will not claim there is no harm: the house will be
-reduced in height or footprint and moved away from No.1, and re-tested. The 2-storey, 4-bedroom
-concept is withdrawn as the basis for discussion.
+reduced in height or footprint and moved away from No.1, and re-tested. The original concept
+is replaced by a revised 4-bedroom house, sited on the west side of the plot away from No.1's windows. If the tests
+still fail, I will reduce it to a smaller house.
 
 **6. Character.** A street-scene elevation along Sandyhill Road, with neighbouring houses to
 scale, and a short analysis of their form, height, roof type, materials and plot width, will
 show how the proposal relates to them.
 
-**7. Space standards.** Intended occupancy will be stated as [BEDROOMS / PERSONS – TO BE
-CONFIRMED]. Every bedroom and the total GIA will be checked against the Nationally Described
+**7. Space standards.** Intended occupancy is 4 bedrooms, [5 persons – CONFIRM] (4b5p, minimum 97 m² GIA). Every bedroom and the total GIA will be checked against the Nationally Described
 Space Standard in a table. I note that the earlier bedrooms 2–4 (about 9.3 m²) were single rooms
 and did not support a six-person label.
 
