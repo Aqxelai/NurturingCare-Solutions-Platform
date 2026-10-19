@@ -19,7 +19,7 @@ Sandyhill Road along the south edge, Cleethorpes Avenue on the RIGHT (east), No.
 | 09 | Proposed floor plans and roof plan | 1:50 | A3 | option chosen | To do |
 | 10 | Proposed elevations (four) | 1:100 | A3 | 09 | To do |
 | 11 | Street scene along Sandyhill Road | 1:200 | A3 | 00, 08 | To do |
-| 12 | Existing side AND rear elevations of No.1 with window schedule (position, size, room served) | 1:50 | A3 | photos + 00 | To do |
+| 12 | Existing side elevation (and rear if windows face the plot) of No.1 with window schedule (position, size, room served) | 1:50 | A3 | photos + 00 | To do |
 | 13 | Daylight sections: 25° lines to each No.1 window, existing vs proposed | 1:100 | A3 | 07, 12 | To do |
 | 14 | Overshadowing/sun-path diagrams (21 Mar, 21 Jun, 21 Dec) | 1:200 | A3 | 03 | To do |
 | 15 | Cut-and-fill plan with volume table | 1:200 | A3 | 04, 05 | To do |

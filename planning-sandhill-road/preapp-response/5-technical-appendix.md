@@ -263,3 +263,15 @@ ruler. Error is probably 25–30% or more. Replace every figure with the survey.
 - If the survey agrees, the realistic choices are: a 4-bedroom house using part of No.1's garden, with its
   light, privacy and garden-size tests passing; a smaller house; or ask the officer to accept a
   building line forward of the neighbours (unlikely, given her comment).
+
+## CORRECTION: no building on No.1's garden
+The owner has clarified that the house will not be built on No.1's garden. This replaces the sections
+"Using No.1's back yard" and "Garden between No.1's gable and the timber fence" above.
+- The red line stays on the Council's plot. No.1 keeps its whole garden, so there is no garden-loss or
+  Certificate A issue, and No.1's rear windows are not built against.
+- The garden's length (end wall of No.1 to the timber fence) is used only as a reference for the plot's
+  length along Sandyhill Road. The surveyor should measure it.
+- The desk check above therefore stands without the garden: the neighbours' building line leaves only a
+  small wedge of the plot, and a 4-bedroom house probably cannot sit on that line. The choices are a
+  smaller house on the line, or a 4-bedroom house forward of the line with a strong justification
+  (unlikely to satisfy the officer), or Option C. Decide after the survey.

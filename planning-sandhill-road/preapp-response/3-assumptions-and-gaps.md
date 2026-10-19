@@ -39,8 +39,8 @@
 
 | 11 | Intended house: 4 bedrooms. Persons assumed 5 (4b5p, 97 m²) because bedrooms 2–4 are single size; 6 persons would need two doubles and 106 m² | Owner's answer | Space standard fails |
 
-| 12a | The timber fence behind the plot in the photos is the end of No.1's garden; the garden runs from the end of No.1 to that fence, and the owner would use that length for the house. Fence position is not proof of the legal boundary; confirm with the Land Registry title plan and survey | Owner's statement and photo | Red line and ownership wrong |
-| 12 | The back yard to the left (west) of No.1 is part of No.1's own garden (the user's land) and could be added inside the red line. NOT yet confirmed with title or survey | Owner's statement | Wrong red line and ownership certificate |
+| 12a | CORRECTED: No.1's garden is NOT part of the site and will not be built on. The red line stays on the Council's plot only. The garden's length (end of No.1 to the timber fence) is used only as a measuring reference for the plot | Owner's clarification | Red line wrong if garden were included |
+| 12 | (Withdrawn) The idea of adding No.1's back yard to the red line is dropped | Owner | – |
 
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |
@@ -54,7 +54,7 @@
 
 ## C. Questions for you
 
-00. Please measure with a tape: (a) from the end (gable) wall of No.1 to the fence, (b) the width of that garden, and (c) how far the fence is from the footway wall. Mark them as owner's measurements, to be checked by the surveyor.
+00. When you can, measure the length of No.1's garden (end wall to the timber fence); the surveyor can use it as a reference. Not needed urgently.
 
 
 0. The photo also shows a small window on the wall to the right of the gable, near the downpipe. What room does it serve? (If it is the bedroom's, the bedroom has another window.)
