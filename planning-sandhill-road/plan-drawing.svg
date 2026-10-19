@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1130" width="1600" height="1130" font-family="Arial,Helvetica,sans-serif">
+<rect width="1600" height="1130" fill="#fff"/><rect x="10" y="10" width="1580" height="1110" fill="none" stroke="#000" stroke-width="2"/>
+<text x="40" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">1. SITE / BLOCK PLAN  (1:200 @ A3, indicative)</text>
+<rect x="40" y="130" width="546" height="316" fill="#eef3e8" stroke="none"/>
+<rect x="40" y="426" width="546" height="30" fill="#bbb"/>
+<text x="313.0" y="446" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">SANDHILL ROAD</text>
+<rect x="15" y="130" width="25" height="326" fill="#bbb"/>
+<text transform="translate(31,240) rotate(-90)" font-size="11" font-weight="bold" text-anchor="middle">CLEETHORPES AVENUE</text>
+<rect x="40" y="161.2" width="533.0" height="241.8" fill="none" stroke="#c00" stroke-width="2.5" stroke-dasharray="8 3"/>
+<text x="300" y="465.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#c00">Application site (red line) – approx. 20.5 m x 9.3 m</text>
+<rect x="92" y="100" width="234" height="32.0" fill="#ddd" stroke="#444"/>
+<text x="209.0" y="126" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">No.1 CLEETHORPES AVE (existing)</text>
+<rect x="40" y="155.2" width="533.0" height="10" fill="#7a9a5a"/>
+<text x="482" y="151.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Rear boundary – existing bushes (retained)</text>
+<rect x="53.0" y="239.2" width="65.0" height="130" fill="#d9d9d9" stroke="#444"/>
+<text x="85.5" y="304.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">PARKING</text>
+<text x="85.5" y="317.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">2.5x5.0 m</text>
+<rect x="149.2" y="195.0" width="213.2" height="176.79999999999998" fill="#c9583f" fill-opacity=".35" stroke="#222" stroke-width="3"/>
+<text x="255.79999999999998" y="279.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PROPOSED</text>
+<text x="255.79999999999998" y="295.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">4-BED DETACHED</text>
+<text x="255.79999999999998" y="311.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 x 6.8 m</text>
+<text x="255.79999999999998" y="385.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Front elevation to Sandhill Road</text>
+<text x="469.0" y="278.2" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PRIVATE GARDEN</text>
+<text x="469.0" y="292.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">(side and rear)</text>
+<text x="430" y="384.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Low brick wall + planting to frontage</text>
+<g transform="translate(556,210)"><circle r="18" fill="#fff" stroke="#000"/><path d="M0 -14 L6 8 L0 4 L-6 8Z" fill="#000"/></g>
+<text x="556" y="182" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">N</text>
+<line x1="40" x2="170" y1="480" y2="480" stroke="#000" stroke-width="3"/>
+<text x="105.0" y="496" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">0 – 5 m</text>
+<text x="660" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">2. GROUND FLOOR PLAN (1:50 @ A3)</text>
+<line x1="660" x2="1053.6" y1="92" y2="92" stroke="#000"/>
+<text x="856.8" y="87" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 m</text>
+<line x1="642" x2="642" y1="110" y2="436.4" stroke="#000"/>
+<text transform="translate(636,273.2) rotate(-90)" font-size="11" text-anchor="middle">6.8 m</text>
+<rect x="660" y="273.2" width="163.2" height="163.2" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="741.6" y="352.79999999999995" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">LIVING ROOM 1</text>
+<text x="741.6" y="367.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.4 x 3.4</text>
+<rect x="890.4" y="273.2" width="163.2" height="163.2" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="972.0" y="352.79999999999995" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">LIVING ROOM 2</text>
+<text x="972.0" y="367.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.4 x 3.4</text>
+<rect x="823.2" y="273.2" width="67.19999999999999" height="163.2" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="856.8" y="352.79999999999995" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">HALL</text>
+<rect x="823.2" y="110" width="230.39999999999998" height="163.2" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="938.4" y="189.6" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">KITCHEN / DINING</text>
+<text x="938.4" y="204.6" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">4.8 x 3.4</text>
+<rect x="660" y="110" width="86.4" height="52.800000000000004" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="703.2" y="134.4" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">UTILITY</text>
+<text x="703.2" y="149.4" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">1.8 x 1.1</text>
+<rect x="660" y="162.8" width="86.4" height="52.800000000000004" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="703.2" y="187.2" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">WC</text>
+<text x="703.2" y="202.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">1.8 x 1.1</text>
+<rect x="660" y="215.60000000000002" width="86.4" height="57.599999999999994" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="703.2" y="242.4" font-size="11" text-anchor="middle" font-weight="bold" fill="#000"></text>
+<rect x="746.4" y="110" width="76.80000000000001" height="163.2" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="784.8" y="189.6" font-size="11" text-anchor="middle" font-weight="bold" fill="#000"></text>
+<rect x="751.2" y="117.2" width="62.400000000000006" height="144.0" fill="#fff" stroke="#222"/>
+<line x1="751.2" x2="813.6" y1="128.27692307692308" y2="128.27692307692308" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="139.35384615384615" y2="139.35384615384615" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="150.43076923076922" y2="150.43076923076922" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="161.5076923076923" y2="161.5076923076923" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="172.58461538461538" y2="172.58461538461538" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="183.66153846153844" y2="183.66153846153844" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="194.73846153846154" y2="194.73846153846154" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="205.81538461538463" y2="205.81538461538463" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="216.8923076923077" y2="216.8923076923077" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="227.96923076923076" y2="227.96923076923076" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="239.04615384615383" y2="239.04615384615383" stroke="#555"/>
+<line x1="751.2" x2="813.6" y1="250.12307692307692" y2="250.12307692307692" stroke="#555"/>
+<text x="782.4" y="189.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">UP</text>
+<rect x="835.2" y="433.4" width="43.2" height="6" fill="#fff" stroke="#222"/><path d="M835.2 436.4 a43.2 43.2 0 0 1 43.2 -43.2" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<text x="856.8" y="452.4" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">MAIN ENTRANCE</text>
+<rect x="820.2" y="287.6" width="6" height="43.2" fill="#fff" stroke="#222"/><path d="M823.2 287.6 a43.2 43.2 0 0 1 43.2 43.2" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="887.4" y="287.6" width="6" height="43.2" fill="#fff" stroke="#222"/><path d="M890.4 287.6 a43.2 43.2 0 0 1 43.2 43.2" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="684.0" y="432.4" width="115.19999999999999" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="914.4" y="432.4" width="115.19999999999999" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="861.6" y="106" width="134.39999999999998" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1049.6" y="158" width="8" height="86.4" fill="#cfe6f5" stroke="#222"/>
+<rect x="1049.6" y="330.79999999999995" width="8" height="72.0" fill="#cfe6f5" stroke="#222"/>
+<text x="856.8" y="470.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Approx. GIA 55.8 m²</text>
+<text x="1110" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">3. FIRST FLOOR PLAN (1:50 @ A3)</text>
+<line x1="1110" x2="1503.6" y1="92" y2="92" stroke="#000"/>
+<text x="1306.8" y="87" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 m</text>
+<line x1="1092" x2="1092" y1="110" y2="436.4" stroke="#000"/>
+<text transform="translate(1086,273.2) rotate(-90)" font-size="11" text-anchor="middle">6.8 m</text>
+<rect x="1110" y="110" width="148.8" height="144.0" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1184.4" y="180.0" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">BEDROOM 2</text>
+<text x="1184.4" y="195.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.1 x 3.0</text>
+<rect x="1258.8" y="110" width="96.0" height="100.80000000000001" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1306.8" y="158.4" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">BATHROOM</text>
+<text x="1306.8" y="173.4" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">2.1 x 2.0</text>
+<rect x="1354.8" y="110" width="148.8" height="144.0" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1429.2" y="180.0" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">BEDROOM 3</text>
+<text x="1429.2" y="195.0" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.1 x 3.0</text>
+<rect x="1110" y="273.2" width="172.8" height="163.2" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1196.4" y="352.79999999999995" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">BEDROOM 1</text>
+<text x="1196.4" y="367.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.6 x 3.4</text>
+<rect x="1282.8" y="350.0" width="72.0" height="86.4" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1318.8" y="391.20000000000005" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">ENSUITE</text>
+<text x="1318.8" y="406.20000000000005" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">1.6 x 2.0</text>
+<rect x="1354.8" y="292.4" width="148.8" height="144.0" fill="#f7f5ee" stroke="#222" stroke-width="2"/>
+<text x="1429.2" y="362.4" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">BEDROOM 4</text>
+<text x="1429.2" y="377.4" font-size="10" text-anchor="middle" font-weight="normal" fill="#444">3.1 x 3.0</text>
+<rect x="1258.8" y="210.8" width="96.0" height="139.2" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="1306.8" y="278.4" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">LANDING</text>
+<rect x="1110" y="254.0" width="148.8" height="19.200000000000003" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="1184.4" y="261.6" font-size="11" text-anchor="middle" font-weight="bold" fill="#000"></text>
+<rect x="1354.8" y="254.0" width="148.8" height="38.400000000000006" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="1429.2" y="271.2" font-size="11" text-anchor="middle" font-weight="bold" fill="#000"></text>
+<rect x="1282.8" y="273.2" width="72.0" height="76.80000000000001" fill="#fff" stroke="#222" stroke-width="2"/>
+<text x="1318.8" y="309.6" font-size="11" text-anchor="middle" font-weight="bold" fill="#000"></text>
+<rect x="1263.6" y="215.60000000000002" width="62.400000000000006" height="105.60000000000001" fill="#fff" stroke="#222"/>
+<line x1="1263.6" x2="1326.0" y1="227.33333333333334" y2="227.33333333333334" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="239.06666666666666" y2="239.06666666666666" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="250.8" y2="250.8" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="262.53333333333336" y2="262.53333333333336" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="274.26666666666665" y2="274.26666666666665" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="286.0" y2="286.0" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="297.73333333333335" y2="297.73333333333335" stroke="#555"/>
+<line x1="1263.6" x2="1326.0" y1="309.4666666666667" y2="309.4666666666667" stroke="#555"/>
+<text x="1294.8" y="268.4" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">UP</text>
+<rect x="1255.8" y="177.2" width="6" height="38.400000000000006" fill="#fff" stroke="#222"/><path d="M1258.8 177.2 a38.400000000000006 38.400000000000006 0 0 1 38.400000000000006 38.400000000000006" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="1206.0" y="270.2" width="38.400000000000006" height="6" fill="#fff" stroke="#222"/><path d="M1206.0 273.2 a38.400000000000006 38.400000000000006 0 0 1 38.400000000000006 -38.400000000000006" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="1359.6" y="251.0" width="38.400000000000006" height="6" fill="#fff" stroke="#222"/><path d="M1359.6 254.0 a38.400000000000006 38.400000000000006 0 0 1 38.400000000000006 -38.400000000000006" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="1351.8" y="321.20000000000005" width="6" height="38.400000000000006" fill="#fff" stroke="#222"/><path d="M1354.8 321.20000000000005 a38.400000000000006 38.400000000000006 0 0 1 38.400000000000006 38.400000000000006" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="1297.2" y="347.0" width="38.400000000000006" height="6" fill="#fff" stroke="#222"/><path d="M1297.2 350.0 a38.400000000000006 38.400000000000006 0 0 1 38.400000000000006 -38.400000000000006" fill="none" stroke="#666" stroke-dasharray="3 2"/>
+<rect x="1134.0" y="106" width="96.0" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1378.8" y="106" width="96.0" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1134.0" y="432.4" width="96.0" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1388.4" y="432.4" width="96.0" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1297.2" y="432.4" width="43.2" height="8" fill="#cfe6f5" stroke="#222"/>
+<rect x="1292.4" y="106" width="48.0" height="8" fill="#cfe6f5" stroke="#222"/>
+<text x="1306.8" y="470.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Approx. GIA 55.8 m²  (total approx. 111 m²)</text>
+<text x="660" y="610" font-size="15" text-anchor="start" font-weight="bold" fill="#000">4. FRONT ELEVATION – SANDHILL ROAD (1:100 @ A3, indicative)</text>
+<line x1="630" x2="1000" y1="810" y2="810" stroke="#000" stroke-width="2"/>
+<rect x="660" y="700" width="278.79999999999995" height="110" fill="#b8553c" stroke="#222" stroke-width="2"/>
+<polygon points="648,700 950.8,700 918.8,648 680,648" fill="#4a4d52" stroke="#222"/>
+<rect x="683.8" y="715" width="54.400000000000006" height="30" fill="#cfe6f5" stroke="#222" stroke-width="2"/>
+<rect x="860.6" y="715" width="54.400000000000006" height="30" fill="#cfe6f5" stroke="#222" stroke-width="2"/>
+<rect x="683.8" y="760" width="54.400000000000006" height="38" fill="#cfe6f5" stroke="#222" stroke-width="2"/>
+<rect x="860.6" y="760" width="54.400000000000006" height="38" fill="#cfe6f5" stroke="#222" stroke-width="2"/>
+<rect x="775.6" y="715" width="47.599999999999994" height="30" fill="#cfe6f5" stroke="#222" stroke-width="2"/>
+<rect x="780.7" y="758" width="37.400000000000006" height="52" fill="#2d3238" stroke="#222" stroke-width="2"/>
+<rect x="768.8" y="748" width="54.400000000000006" height="8" fill="#555"/>
+<text x="799.4" y="840" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Red facing brick • grey slate-effect tiled roof (c. 35–40° pitch) • dark grey windows and door • ridge c. 8.0 m (approx.)</text>
+<text x="799.4" y="858" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Proposed front boundary: low brick wall with planting</text>
+<text x="40" y="610" font-size="15" text-anchor="start" font-weight="bold" fill="#000">5. PROPOSAL SUMMARY</text>
+<text x="40" y="640" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Site: land adjacent to 1 Cleethorpes Avenue / Sandhill Road, Blackley, Manchester</text>
+<text x="40" y="662" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Proposal: 1 no. 4-bedroom detached dwelling (Use Class C3)</text>
+<text x="40" y="684" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Orientation: front door and principal windows face Sandhill Road</text>
+<text x="40" y="706" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Footprint approx. 8.2 m x 6.8 m; two storeys; GIA approx. 110 m²</text>
+<text x="40" y="728" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Parking: 1 off-street space, accessed from Cleethorpes Avenue</text>
+<text x="40" y="750" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Amenity: private garden to side and rear (approx. 80–100 m²)</text>
+<text x="40" y="772" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Boundaries: rear bushes retained; low brick wall and planting to front</text>
+<text x="40" y="794" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Bedrooms 2–4 are c. 9.3 m² (single-bedroom size) – see notes</text>
+<text x="40" y="816" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Cycle and bin storage to be shown in side/rear garden (TBC)</text>
+<rect x="40" y="880" width="1520" height="210" fill="none" stroke="#000" stroke-width="1.5"/>
+<text x="60" y="915" font-size="22" text-anchor="start" font-weight="bold" fill="#000">PROPOSED 4-BEDROOM DETACHED HOUSE</text>
+<text x="60" y="945" font-size="14" text-anchor="start" font-weight="normal" fill="#000">Land adjacent to 1 Cleethorpes Avenue / Sandhill Road, Blackley, Manchester</text>
+<text x="60" y="975" font-size="12" text-anchor="start" font-weight="normal" fill="#000">Drawing: Proposed site, floor plans and front elevation   |   Status: CONCEPT – FOR DISCUSSION / PRE-APPLICATION</text>
+<text x="60" y="1000" font-size="12" text-anchor="start" font-weight="normal" fill="#000">Client: Nurturing Care Solutions   |   Drawn: AI-assisted concept   |   Date: 19 Oct 2026   |   Rev: A</text>
+<text x="60" y="1030" font-size="11" text-anchor="start" font-weight="normal" fill="#a00">NOTE: Concept proposal only. All dimensions approximate and subject to measured topographical survey, design development,</text>
+<text x="60" y="1046" font-size="11" text-anchor="start" font-weight="normal" fill="#a00">Building Regulations and planning advice. Not to be used for construction. Boundary and ownership to be confirmed. Do not scale from this drawing.</text>
+</svg>
