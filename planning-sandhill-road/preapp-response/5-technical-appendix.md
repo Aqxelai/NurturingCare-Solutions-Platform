@@ -362,3 +362,17 @@ Chosen at the owner's request to propose whatever is most likely to be accepted.
   daylight carefully; the Gateshead case about a new house beside a neighbour's side window went against the proposal.
 - To find real precedents: search Manchester's planning register for "dwellinghouse" with "land adjacent to" in M9, and
   the Planning Inspectorate appeals database for Manchester City Council, then read the officer reports.
+
+## Garage in front of the house (owner's idea: to use internally for something else)
+Not verified: the Council's garage size, whether a garage counts as a parking space, and its conditions on garages.
+1. Garage projecting in front of the house: it breaks the neighbours' building line (the officer's point 4), adds mass at the
+   front and shortens the parking forecourt. Likely to draw an objection. Not recommended.
+2. Integral garage inside the footprint: a car garage needs about 3 m × 6 m inside (common standard, to be checked), but the
+   house is only about 5.5 m deep, so it would not fit without losing the ground-floor rooms or going forward of the line.
+3. Undercroft garage cut into the bank, house above: suits a sloping site because the house steps with the slope (point 3)
+   and the garage door is at street level. Costs more (retaining walls, waterproofing), raises the building and its ridge, and
+   needs levels from the survey; the daylight tests for No.1 must be rerun with the higher roof.
+- Using the garage "for something else": storage or a workshop is fine. If it is meant to become a habitable room, say so
+  and design it as one (Building Regulations: insulation, ventilation, daylight, floor level). Councils often add a condition
+  keeping garages for parking, and it can then not be converted without permission. Do not describe it as a garage if the plan is a room.
+- Parking: keep the two outside bays; the garage should not be the only parking, and may not count towards it.
