@@ -7,23 +7,23 @@ For an early opinion, use Manchester's pre-application advice service first (pai
 
 Erection of 1no. two-storey, 4-bedroom detached dwelling (Use Class C3) with associated
 off-street parking (1 space), private amenity space, boundary treatment and landscaping,
-on land adjacent to 1 Cleethorpes Avenue, fronting Sandhill Road, Blackley, Manchester.
+on land adjacent to 1 Cleethorpes Avenue, fronting Sandyhill Road, Blackley, Manchester.
 
 ## Site address
 
-Land adjacent to 1 Cleethorpes Avenue / Sandhill Road, Blackley, Manchester (add postcode and UPRN).
+Land adjacent to 1 Cleethorpes Avenue / Sandyhill Road, Blackley, Manchester (add postcode and UPRN).
 
 ## Supporting statement (paste into Design & Access / Planning Statement)
 
 **Site and context.** The application site is a wide, shallow corner plot of approx. 20–21 m
-(frontage to Sandhill Road) by 8–10 m deep, adjacent to 1 Cleethorpes Avenue in a established
+(frontage to Sandyhill Road) by 8–10 m deep, adjacent to 1 Cleethorpes Avenue in a established
 residential area of Blackley. The rear boundary is screened by mature bushes, which are retained.
 
 **Proposal.** A two-storey detached family dwelling of approx. 8.2 m x 6.8 m footprint and
 approx. 110 m² gross internal area: ground floor kitchen/dining, two living rooms, utility,
 WC and hall; first floor four bedrooms (one en-suite) and a family bathroom.
 
-**Layout and orientation.** The dwelling faces Sandhill Road with its main entrance and principal
+**Layout and orientation.** The dwelling faces Sandyhill Road with its main entrance and principal
 windows to the street, respecting the established street pattern and corner position. A minimal
 front set-back is provided behind a low retained/complemented brick wall with soft landscaping.
 The shallow frontage is used to protect the privacy and outlook of 1 Cleethorpes Avenue.
@@ -31,7 +31,7 @@ The shallow frontage is used to protect the privacy and outlook of 1 Cleethorpes
 **Design and materials.** Traditional red facing brick, grey tiled pitched roof, dark grey
 window and door frames, in keeping with surrounding houses.
 
-**Access and parking.** One off-street parking space at the front right of the plot, accessed from Sandhill Road (dropped kerb – highways to confirm).
+**Access and parking.** One off-street parking space at the front right of the plot, accessed from Sandyhill Road (dropped kerb – highways to confirm).
 Visibility, pedestrian safety and the corner junction will be addressed in a highways
 note/drawing. Secure cycle storage and bin storage are provided in the side/rear garden.
 

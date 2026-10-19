@@ -3,7 +3,7 @@
 <text x="40" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">1. SITE / BLOCK PLAN  (1:200 @ A3, indicative)</text>
 <rect x="40" y="170" width="546" height="316" fill="#eef3e8" stroke="none"/>
 <rect x="40" y="466" width="546" height="30" fill="#bbb"/>
-<text x="313.0" y="486" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">SANDHILL ROAD</text>
+<text x="313.0" y="486" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">SANDYHILL ROAD</text>
 <rect x="15" y="170" width="25" height="326" fill="#bbb"/>
 <text transform="translate(31,280) rotate(-90)" font-size="11" font-weight="bold" text-anchor="middle">CLEETHORPES AVENUE</text>
 <rect x="40" y="201.2" width="533.0" height="241.8" fill="none" stroke="#c00" stroke-width="2.5" stroke-dasharray="8 3"/>
@@ -25,7 +25,7 @@
 <text x="172.6" y="319.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PROPOSED</text>
 <text x="172.6" y="335.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">4-BED DETACHED</text>
 <text x="172.6" y="351.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 x 6.8 m</text>
-<text x="172.6" y="425.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Front elevation to Sandhill Road</text>
+<text x="172.6" y="425.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Front elevation to Sandyhill Road</text>
 <text x="417.0" y="268.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PRIVATE GARDEN</text>
 <text x="417.0" y="282.8" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">(all to the right of the house)</text>
 <text x="352" y="424.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Low brick wall + planting to frontage</text>
@@ -136,7 +136,7 @@
 <rect x="1297.2" y="432.4" width="43.2" height="8" fill="#cfe6f5" stroke="#222"/>
 <rect x="1292.4" y="106" width="48.0" height="8" fill="#cfe6f5" stroke="#222"/>
 <text x="1306.8" y="470.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Approx. GIA 55.8 m²  (total approx. 111 m²)</text>
-<text x="660" y="610" font-size="15" text-anchor="start" font-weight="bold" fill="#000">4. FRONT ELEVATION – SANDHILL ROAD, WITH NO.1 CLEETHORPES AVE BEHIND (1:100 @ A3, indicative)</text>
+<text x="660" y="610" font-size="15" text-anchor="start" font-weight="bold" fill="#000">4. FRONT ELEVATION – SANDYHILL ROAD, WITH NO.1 CLEETHORPES AVE BEHIND (1:100 @ A3, indicative)</text>
 <line x1="630" x2="1000" y1="810" y2="810" stroke="#000" stroke-width="2"/>
 <rect x="813.0" y="670" width="306" height="140" fill="#a8523e" stroke="#444" stroke-width="2"/>
 <polygon points="803.0,670 1129.0,670 1089.0,625 843.0,625" fill="#5b5e63" stroke="#444"/>
@@ -161,18 +161,18 @@
 <text x="799.4" y="840" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">Red facing brick • grey slate-effect tiled roof (c. 35–40° pitch) • dark grey windows and door • ridge c. 8.0 m (approx.)</text>
 <text x="799.4" y="858" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Neighbour: No.1 Cleethorpes Ave sits behind the new house; its first-floor windows stay visible. Driveway/parking at front right (right of this view).</text>
 <text x="40" y="610" font-size="15" text-anchor="start" font-weight="bold" fill="#000">5. PROPOSAL SUMMARY</text>
-<text x="40" y="640" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Site: land adjacent to 1 Cleethorpes Avenue / Sandhill Road, Blackley, Manchester</text>
+<text x="40" y="640" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Site: land adjacent to 1 Cleethorpes Avenue / Sandyhill Road, Blackley, Manchester</text>
 <text x="40" y="662" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Proposal: 1 no. 4-bedroom detached dwelling (Use Class C3)</text>
-<text x="40" y="684" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Orientation: front door and principal windows face Sandhill Road</text>
+<text x="40" y="684" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Orientation: front door and principal windows face Sandyhill Road</text>
 <text x="40" y="706" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Footprint approx. 8.2 m x 6.8 m; two storeys; GIA approx. 110 m²</text>
-<text x="40" y="728" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Parking: 1 off-street space, at the front right of the plot, dropped-kerb access from Sandhill Road</text>
+<text x="40" y="728" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Parking: 1 off-street space, at the front right of the plot, dropped-kerb access from Sandyhill Road</text>
 <text x="40" y="750" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Amenity: private garden to the right of the house (approx. 80–100 m²)</text>
 <text x="40" y="772" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Boundaries: rear bushes retained; low brick wall and planting to front</text>
 <text x="40" y="794" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Bedrooms 2–4 are c. 9.3 m² (single-bedroom size) – see notes</text>
 <text x="40" y="816" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Cycle and bin storage to be shown in side/rear garden (TBC)</text>
 <rect x="40" y="880" width="1520" height="210" fill="none" stroke="#000" stroke-width="1.5"/>
 <text x="60" y="915" font-size="22" text-anchor="start" font-weight="bold" fill="#000">PROPOSED 4-BEDROOM DETACHED HOUSE</text>
-<text x="60" y="945" font-size="14" text-anchor="start" font-weight="normal" fill="#000">Land adjacent to 1 Cleethorpes Avenue / Sandhill Road, Blackley, Manchester</text>
+<text x="60" y="945" font-size="14" text-anchor="start" font-weight="normal" fill="#000">Land adjacent to 1 Cleethorpes Avenue / Sandyhill Road, Blackley, Manchester</text>
 <text x="60" y="975" font-size="12" text-anchor="start" font-weight="normal" fill="#000">Drawing: Proposed site, floor plans and front elevation   |   Status: CONCEPT – FOR DISCUSSION / PRE-APPLICATION</text>
 <text x="60" y="1000" font-size="12" text-anchor="start" font-weight="normal" fill="#000">Client: Nurturing Care Solutions   |   Drawn: AI-assisted concept   |   Date: 19 Oct 2026   |   Rev: A</text>
 <text x="60" y="1030" font-size="11" text-anchor="start" font-weight="normal" fill="#a00">NOTE: Concept proposal only. All dimensions approximate and subject to measured topographical survey, design development,</text>
