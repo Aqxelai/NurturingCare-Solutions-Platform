@@ -23,7 +23,7 @@ Sandyhill Road along the south edge, Cleethorpes Avenue on the RIGHT (east), No.
 | 13 | Daylight sections: 25° lines to each No.1 window, existing vs proposed | 1:100 | A3 | 07, 12 | To do |
 | 14 | Overshadowing/sun-path diagrams (21 Mar, 21 Jun, 21 Dec) | 1:200 | A3 | 03 | To do |
 | 15 | Cut-and-fill plan with volume table | 1:200 | A3 | 04, 05 | To do |
-| 16 | Access, visibility splays, parking, bin and cycle detail | 1:200 | A3 | 03 | To do |
+| 16 | Access, dropped kerb, two parking bays, visibility splays, bin and cycle detail | 1:200 | A3 | 03 | To do |
 | 17 | Tree and hedge constraints plan | 1:200 | A3 | 00 | If trees affected |
 
 Reports (not drawings): BRE 209 daylight/sunlight report; NDSS compliance table; planning

@@ -307,3 +307,20 @@ Chosen at the owner's request to propose whatever is most likely to be accepted.
   (61 m² on one floor), or no development.
 - **Why not the 4-bedroom house:** it needs about 49 m² per floor plus walls on a small wedge, with a large
   mass beside No.1; the officer already doubts the site. I have not used it as the lead scheme.
+
+## Two front parking spaces (owner's request)
+- Layout: two bays side by side, about 5 m wide (2 × 2.5 m) and 5 m deep, plus a dropped kerb; the
+  house stays on the building line. Tandem bays would need about 10 m depth, which the plot does not
+  have, so side by side is the only layout I have drawn.
+- Depth check (from the rough desk estimate only): the neighbours' fronts are roughly 6–7 m back from the
+  kerb, and the footway takes part of that. So a 5 m deep bay may not fit in front of the line; a car
+  overhanging the footway will not be accepted. The survey decides. If it is short, the house sits
+  further back (more cut into the bank) or one space is dropped.
+- One crossover for two bays is easier to get approved than two. Highways decides width and
+  position (not verified). The street light column, the utility cabinet and the kerb must be avoided or moved.
+- Corner: the plot is next to the Cleethorpes Avenue junction. The drive nearer the junction gives
+  highways visibility questions; the drive further west is safer for visibility but puts the house nearer
+  No.1 or reduces the gap. Highways must say which they prefer.
+- Gradient and surface: the forecourt needs a gradient highways accepts (limit not verified); the bank
+  must be cut back and the wall rebuilt. Use permeable paving.
+- Planning gain: two spaces answer the likely highways concern better than one.

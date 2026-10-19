@@ -44,6 +44,8 @@
 
 | 13 | The owner does not need a garden; only parking at the front. Private outdoor space may therefore be limited to a small yard, balcony or none | Owner | Officer may object to a family house with no outdoor space |
 
+| 14 | Two front parking spaces wanted (taken as two bays side by side served by one dropped kerb). Bay size assumed 2.5 × 5.0 m; Council's size and crossover width not verified | Owner | Forecourt may be too shallow; highways may refuse |
+
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |
 |---|---|
