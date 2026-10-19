@@ -23,7 +23,7 @@ Cleethorpes Avenue is on the **right**. The red line will follow the surveyed bo
 
 **2. No site plan.** A location plan (1:1250) and existing and proposed block plans (1:200) will be
 provided, showing north point, boundary dimensions, roads, neighbours' footprints, parking,
-garden, bin and cycle stores and distances to No.1's side elevation. See schedule enclosed.
+any private outdoor space, bin and cycle stores and distances to No.1's side elevation. See schedule enclosed.
 
 **3. Levels.** I accept that the fall across the plot may be significant. A topographical survey
 ([DATE – TO BE SURVEYED]) will give existing and proposed levels, finished floor level, retaining

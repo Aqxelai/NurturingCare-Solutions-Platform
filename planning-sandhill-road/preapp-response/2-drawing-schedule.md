@@ -10,7 +10,7 @@ Sandyhill Road along the south edge, Cleethorpes Avenue on the RIGHT (east), No.
 | 00 | Topographical & boundary survey (surveyor) incl. No.1 side-elevation windows, trees, kerb/road levels | 1:100 / 1:200 | A1 | – | **Commission** |
 | 01 | Location plan, red line to surveyed boundary (blue line if other land) | 1:1250 | A4 | 00 | To do |
 | 02 | Existing site/block plan with levels, neighbours' footprints, distances to No.1 | 1:200 | A3 | 00 | To do |
-| 03 | Proposed block/site plan: dimensions to all boundaries, parking, garden, bins, cycles, front wall on building line | 1:200 | A3 | 00, 08 | To do |
+| 03 | Proposed block/site plan: dimensions to all boundaries, front parking, any private outdoor space (or the justification for none), bins, cycles, front wall on building line | 1:200 | A3 | 00, 08 | To do |
 | 04 | Existing levels plan (spot heights, contours) | 1:200 | A3 | 00 | To do |
 | 05 | Proposed levels, FFL, retaining walls | 1:200 | A3 | 04 | To do |
 | 06 | Section AA: across Sandyhill Road frontage (E–W) | 1:100 | A3 | 00 | To do |

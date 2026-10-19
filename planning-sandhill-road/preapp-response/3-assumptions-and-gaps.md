@@ -42,6 +42,8 @@
 | 12a | CORRECTED: No.1's garden is NOT part of the site and will not be built on. The red line stays on the Council's plot only. The garden's length (end of No.1 to the timber fence) is used only as a measuring reference for the plot | Owner's clarification | Red line wrong if garden were included |
 | 12 | (Withdrawn) The idea of adding No.1's back yard to the red line is dropped | Owner | – |
 
+| 13 | The owner does not need a garden; only parking at the front. Private outdoor space may therefore be limited to a small yard, balcony or none | Owner | Officer may object to a family house with no outdoor space |
+
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |
 |---|---|

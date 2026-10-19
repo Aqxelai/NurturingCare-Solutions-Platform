@@ -275,3 +275,19 @@ The owner has clarified that the house will not be built on No.1's garden. This 
   small wedge of the plot, and a 4-bedroom house probably cannot sit on that line. The choices are a
   smaller house on the line, or a 4-bedroom house forward of the line with a strong justification
   (unlikely to satisfy the officer), or Option C. Decide after the survey.
+
+## No garden, parking at the front (owner's wish)
+- Helps the fit: no rear garden is needed, so the house can use all of the plot behind the building line,
+  and the area in front of the line becomes the parking forecourt. This uses the space that
+  aligning to the building line removes.
+- Planning risk: the officer and highways will still look at outdoor space for a family house
+  (check the Council's guidance; I have not verified the wording or any minimum size) and at parking
+  for a 4-bedroom house. Say plainly why no garden is wanted, and consider a small private yard,
+  balcony or roof terrace, bin and cycle storage.
+- Parking: the earlier concept used one 2.5 × 5.0 m space; confirm the Council's bay size and number
+  of spaces for a 4-bedroom house. The street light, the utility cabinet, the kerb and the wall
+  affect where a drive can go. Any drive needs a dropped kerb approved by highways and a gradient
+  the highway authority accepts (limit not verified).
+- Levels: a forecourt near footway level means cutting the bank back and rebuilding the wall; this
+  affects cut and fill (point 3). Hardstanding also removes grassland (biodiversity net gain
+  baseline) and adds surface water: consider permeable paving.
