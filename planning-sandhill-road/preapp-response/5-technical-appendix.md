@@ -187,3 +187,14 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
 - Neighbours west of the yard (the gardens and houses beyond) need their privacy and light checked.
 - Add to the drawing schedule: sheet 12 to include the rear elevation of No.1, and sheets 02-03 to
   show the extended red line and No.1's remaining garden.
+
+## Street View screenshot (Aug 2025) – hedge and wall
+- Shows a very tall, dense evergreen hedge on top of an old low brick wall, with the end of a house
+  behind on the left. Height, ownership, species and the viewpoint are not known (`[TO BE SURVEYED]`).
+- Google labels the house shown "3 Cleethorpes Ave". Google labels are unreliable, but confirm from
+  title and the Council that the house beside the plot is No.1.
+- BRE 209 normally ignores trees and hedges, so the daylight baseline will probably be taken as if
+  the hedge were not there. Do not argue that the hedge already blocks light to the kitchen window.
+- If the hedge is removed for the house: add it to the tree/hedge survey (sheet 17), the biodiversity
+  net gain baseline and a nesting-bird check. If it is kept, it may restrict where the house can go.
+- The old brick wall may be a retaining wall; check its condition and who owns it.
