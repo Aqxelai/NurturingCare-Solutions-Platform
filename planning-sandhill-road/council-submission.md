@@ -31,11 +31,11 @@ The shallow frontage is used to protect the privacy and outlook of 1 Cleethorpes
 **Design and materials.** Traditional red facing brick, grey tiled pitched roof, dark grey
 window and door frames, in keeping with surrounding houses.
 
-**Access and parking.** One off-street parking space on the right-hand side of the plot, accessed from Sandhill Road (dropped kerb – highways to confirm).
+**Access and parking.** One off-street parking space at the front right of the plot, accessed from Sandhill Road (dropped kerb – highways to confirm).
 Visibility, pedestrian safety and the corner junction will be addressed in a highways
 note/drawing. Secure cycle storage and bin storage are provided in the side/rear garden.
 
-**Amenity.** Usable private garden to the side and rear, not reliant on a long rear garden.
+**Amenity.** Usable private garden all to the right (side and rear) of the dwelling, not reliant on a long rear garden.
 
 **Residential amenity.** Separation, overlooking and daylight to 1 Cleethorpes Avenue will be
 demonstrated on the block plan and sections.

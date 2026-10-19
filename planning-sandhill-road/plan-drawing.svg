@@ -1,32 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1130" width="1600" height="1130" font-family="Arial,Helvetica,sans-serif">
 <rect width="1600" height="1130" fill="#fff"/><rect x="10" y="10" width="1580" height="1110" fill="none" stroke="#000" stroke-width="2"/>
 <text x="40" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">1. SITE / BLOCK PLAN  (1:200 @ A3, indicative)</text>
-<rect x="40" y="130" width="546" height="316" fill="#eef3e8" stroke="none"/>
-<rect x="40" y="426" width="546" height="30" fill="#bbb"/>
-<text x="313.0" y="446" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">SANDHILL ROAD</text>
-<rect x="15" y="130" width="25" height="326" fill="#bbb"/>
-<text transform="translate(31,240) rotate(-90)" font-size="11" font-weight="bold" text-anchor="middle">CLEETHORPES AVENUE</text>
-<rect x="40" y="161.2" width="533.0" height="241.8" fill="none" stroke="#c00" stroke-width="2.5" stroke-dasharray="8 3"/>
-<text x="300" y="465.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#c00">Application site (red line) – approx. 20.5 m x 9.3 m</text>
-<rect x="92" y="100" width="234" height="32.0" fill="#ddd" stroke="#444"/>
-<text x="209.0" y="126" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">No.1 CLEETHORPES AVE (existing)</text>
-<rect x="40" y="155.2" width="533.0" height="10" fill="#7a9a5a"/>
-<text x="482" y="151.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Rear boundary – existing bushes (retained)</text>
-<rect x="502.8" y="239.2" width="65.0" height="130" fill="#d9d9d9" stroke="#444"/>
-<text x="535.3" y="304.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">PARKING</text>
-<text x="535.3" y="317.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">2.5x5.0 m</text>
-<rect x="66.0" y="195.0" width="213.2" height="176.79999999999998" fill="#c9583f" fill-opacity=".35" stroke="#222" stroke-width="3"/>
-<text x="172.6" y="279.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PROPOSED</text>
-<text x="172.6" y="295.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">4-BED DETACHED</text>
-<text x="172.6" y="311.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 x 6.8 m</text>
-<text x="172.6" y="385.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Front elevation to Sandhill Road</text>
-<text x="383.2" y="278.2" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PRIVATE GARDEN</text>
-<text x="383.2" y="292.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">(side and rear)</text>
-<text x="352" y="384.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Low brick wall + planting to frontage</text>
-<g transform="translate(556,190)"><circle r="18" fill="#fff" stroke="#000"/><path d="M0 -14 L6 8 L0 4 L-6 8Z" fill="#000"/></g>
-<text x="556" y="162" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">N</text>
-<line x1="40" x2="170" y1="480" y2="480" stroke="#000" stroke-width="3"/>
-<text x="105.0" y="496" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">0 – 5 m</text>
+<rect x="40" y="170" width="546" height="316" fill="#eef3e8" stroke="none"/>
+<rect x="40" y="466" width="546" height="30" fill="#bbb"/>
+<text x="313.0" y="486" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">SANDHILL ROAD</text>
+<rect x="15" y="170" width="25" height="326" fill="#bbb"/>
+<text transform="translate(31,280) rotate(-90)" font-size="11" font-weight="bold" text-anchor="middle">CLEETHORPES AVENUE</text>
+<rect x="40" y="201.2" width="533.0" height="241.8" fill="none" stroke="#c00" stroke-width="2.5" stroke-dasharray="8 3"/>
+<text x="300" y="505.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#c00">Application site (red line) – approx. 20.5 m x 9.3 m</text>
+<rect x="53.0" y="108" width="312" height="62" fill="#ddd" stroke="#444" stroke-width="2"/>
+<rect x="73.8" y="164" width="33.800000000000004" height="8" fill="#9ccbe8" stroke="#222"/>
+<rect x="133.6" y="164" width="33.800000000000004" height="8" fill="#9ccbe8" stroke="#222"/>
+<rect x="193.39999999999998" y="164" width="33.800000000000004" height="8" fill="#9ccbe8" stroke="#222"/>
+<rect x="253.2" y="164" width="33.800000000000004" height="8" fill="#9ccbe8" stroke="#222"/>
+<rect x="313.0" y="164" width="33.800000000000004" height="8" fill="#9ccbe8" stroke="#222"/>
+<text x="209.0" y="132" font-size="11" text-anchor="middle" font-weight="bold" fill="#000">No.1 CLEETHORPES AVE (existing house behind)</text>
+<text x="209.0" y="148" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">windows face the site - kept clear of the new house</text>
+<rect x="40" y="195.2" width="533.0" height="10" fill="#7a9a5a"/>
+<text x="482" y="191.2" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Rear boundary – existing bushes (retained)</text>
+<rect x="502.8" y="307.79999999999995" width="65.0" height="130" fill="#d9d9d9" stroke="#444"/>
+<text x="535.3" y="372.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">PARKING</text>
+<text x="535.3" y="385.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">2.5x5.0 m</text>
+<rect x="66.0" y="235.0" width="213.2" height="176.79999999999998" fill="#c9583f" fill-opacity=".35" stroke="#222" stroke-width="3"/>
+<text x="172.6" y="319.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PROPOSED</text>
+<text x="172.6" y="335.4" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">4-BED DETACHED</text>
+<text x="172.6" y="351.4" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 x 6.8 m</text>
+<text x="172.6" y="425.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Front elevation to Sandhill Road</text>
+<text x="417.0" y="268.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">PRIVATE GARDEN</text>
+<text x="417.0" y="282.8" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">(all to the right of the house)</text>
+<text x="352" y="424.79999999999995" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">Low brick wall + planting to frontage</text>
+<g transform="translate(556,245)"><circle r="18" fill="#fff" stroke="#000"/><path d="M0 -14 L6 8 L0 4 L-6 8Z" fill="#000"/></g>
+<text x="556" y="217" font-size="12" text-anchor="middle" font-weight="bold" fill="#000">N</text>
+<line x1="40" x2="170" y1="520" y2="520" stroke="#000" stroke-width="3"/>
+<text x="105.0" y="536" font-size="10" text-anchor="middle" font-weight="normal" fill="#000">0 – 5 m</text>
 <text x="660" y="70" font-size="15" text-anchor="start" font-weight="bold" fill="#000">2. GROUND FLOOR PLAN (1:50 @ A3)</text>
 <line x1="660" x2="1053.6" y1="92" y2="92" stroke="#000"/>
 <text x="856.8" y="87" font-size="11" text-anchor="middle" font-weight="normal" fill="#000">8.2 m</text>
@@ -149,7 +155,7 @@
 <text x="40" y="684" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Orientation: front door and principal windows face Sandhill Road</text>
 <text x="40" y="706" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Footprint approx. 8.2 m x 6.8 m; two storeys; GIA approx. 110 m²</text>
 <text x="40" y="728" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Parking: 1 off-street space, on the right of the plot, dropped-kerb access from Sandhill Road</text>
-<text x="40" y="750" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Amenity: private garden to side and rear (approx. 80–100 m²)</text>
+<text x="40" y="750" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Amenity: private garden to the right of the house (approx. 80–100 m²)</text>
 <text x="40" y="772" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Boundaries: rear bushes retained; low brick wall and planting to front</text>
 <text x="40" y="794" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Bedrooms 2–4 are c. 9.3 m² (single-bedroom size) – see notes</text>
 <text x="40" y="816" font-size="12" text-anchor="start" font-weight="normal" fill="#000">• Cycle and bin storage to be shown in side/rear garden (TBC)</text>
