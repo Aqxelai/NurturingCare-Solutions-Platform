@@ -1,12 +1,12 @@
 **Cover note – request for a second pre-application meeting**
 
 Site: Land adjacent to 1 Cleethorpes Avenue, Blackley, Manchester M9 8JT (fronting Sandyhill Road)
-Pre-application ref: [TO BE CONFIRMED]   From: [APPLICANT NAME]   Date: [DATE]
+Pre-application ref: [TO BE CONFIRMED]   From: Shaeba Nokhbehrousta   Date: [DATE]
 
 This is a request for a second pre-application opinion. It is **not** a planning application.
 
 **Enclosed**
-1. Response letter answering the eight points in your advice of 18 August 2026.
+1. Response letter answering the eight points in your reply to my enquiry of 18 August 2026.
 2. Drawing schedule.
 3. Topographical survey (00) and sheets 01–08 and 12: [DELETE ANY NOT READY].
 
@@ -26,4 +26,4 @@ promoted unless the BRE 209 tests show it passes.
 **Not yet available** (see assumptions table): [LIST ANY OUTSTANDING ITEMS, e.g. daylight report,
 BNG baseline].
 
-[APPLICANT NAME] · [PHONE] · [EMAIL]
+Shaeba Nokhbehrousta · [PHONE] · nshaeba@yahoo.com

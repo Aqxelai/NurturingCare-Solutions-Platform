@@ -89,7 +89,7 @@ three singles it is a 4b5p (97 m²); it cannot be 4b6p.
 - **Highways:** drop-kerb approval, visibility at the Cleethorpes Avenue junction, parking
   provision for the final bedroom count – ask the highways officer.
 - **Ownership:** Council-owned land is disposed of via Property Transactions. Planning permission is
-  separate from the right to buy the land. Certificate B and notice may be needed if you do not own it.
+  separate from the right to buy the land. Because the land is not yet yours, a full application would need Certificate B with notice served on the Council as owner.
 
 ## Options
 

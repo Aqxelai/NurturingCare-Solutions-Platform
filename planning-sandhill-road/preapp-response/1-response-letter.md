@@ -1,16 +1,16 @@
-[APPLICANT NAME]
-[ADDRESS]
+Shaeba Nokhbehrousta
+[ADDRESS] · nshaeba@yahoo.com
 [DATE]
 
-Katie Raw, Planning Officer
-Manchester City Council
+Katie Raw, Planning Officer, Area Team (katie.raw@manchester.gov.uk)
+cc Andrew Peek, Manchester City Council
 Pre-application ref: [TO BE CONFIRMED]
 
-**Land adjacent to 1 Cleethorpes Avenue, Blackley, M9 8JT (fronting Sandyhill Road) – response to your advice of 18 August 2026**
+**Land adjacent to 1 Cleethorpes Avenue, Blackley, M9 8JT (fronting Sandyhill Road) – response to your advice on my enquiry of 18 August 2026**
 
 Dear Ms Raw,
 
-Thank you for your candid advice. I accept that the earlier drawings were not adequate and that
+Thank you for your reply to my enquiry. I approached Planning on the advice of Property Transactions, and I am interested in buying the land. I accept that the earlier drawings were not adequate and that
 the case for this site has not yet been made. I am not asking you to take the site's suitability
 on trust: I am commissioning a measured survey and will show the evidence. Where a test may
 fail, I say so below. I would like a second pre-application meeting on the basis of a revised,
@@ -34,8 +34,8 @@ with the slope. If it cannot be accommodated without major retaining structures,
 **4. Building line.** I will measure the front building line of the neighbouring houses on
 Sandyhill Road and draw it. I will set the proposed front wall back to align with it, or
 justify any difference. Aligning will reduce plot depth and floor area; the revised scheme is
-sized to the aligned line. Please confirm whether you mean the houses to the east or the
-adjoining houses to the west (Nos. 56–60 on the aerial); I will measure both.
+sized to the aligned line. Your email refers to properties "to the east of Sandyhill Road"; I will measure the houses
+both east and west of the plot (including the adjoining Nos. 56–60) and show both lines.
 
 **5. Impact on No.1.** I will identify the two side windows you mention and the rooms they
 serve, state separation distances, and test daylight (25-degree test and Vertical Sky
@@ -57,7 +57,8 @@ and did not support a six-person label.
 **8. Principle.** A short planning statement will address land history and Council ownership,
 infill housing and design policy, highways and parking, amenity, trees and biodiversity net
 gain. Please tell me which policy documents you would like it to be tested against, and
-whether the Council's Property Transactions team has any view on disposal of the land.
+whether you would like your response shared with Property Transactions, who asked me to seek
+Planning's comments before any sale is considered.
 
 **Next step.** Please confirm that a second pre-application on this basis is acceptable, and any
 further information you want at that stage. I will submit the full set only once the survey and
@@ -66,6 +67,6 @@ without unacceptable harm, I will tell you.
 
 Yours sincerely,
 
-[APPLICANT NAME]
+Shaeba Nokhbehrousta
 
 Enc: drawing schedule; cover note
