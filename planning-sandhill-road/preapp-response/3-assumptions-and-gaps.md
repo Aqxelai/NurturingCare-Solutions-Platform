@@ -32,7 +32,7 @@
 | 5 | The officer's "properties to the east of Sandyhill Road" may mean Nos. 52/54 across Cleethorpes Avenue or the adjoining Nos. 56–60 to the west | Aerial | Wrong building line |
 | 6 | A 9.3 m² bedroom is a single (7.5 m² minimum). 4b5p therefore needs one double (11.5 m², 2.75 m wide) plus three singles | NDSS | Occupancy label rejected |
 | 7 | No.1 is an end-terrace 2-bedroom house owned by the user; side windows serve the kitchen (ground) and a bedroom (first). The photo shows one first-floor two-light window; the ground-floor one is hidden by the hedge | Owner's statement and photo | Wrong room weighting in BRE tests |
-| 8 | Kitchen has other light from the living room and the back door glazing (owner's statement; to be confirmed with photos). Bedroom's other windows not yet stated | Owner | Test results change |
+| 8 | Kitchen has other light from the living room and the back door glazing (owner's statement; to be confirmed with photos). The bedroom has no other window: the side window is its only light (owner's answer, "no"; confirm) | Owner | Test results change |
 | 9 | Proposed house sits on the west (left) side of the plot, leaving the land beside No.1's side wall as garden/parking; the land to its left is back yards of neighbouring houses | Owner's layout idea | House may not fit the narrower west end of the plot; overlooking and overshadowing of the west neighbours not yet tested |
 | 10 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 

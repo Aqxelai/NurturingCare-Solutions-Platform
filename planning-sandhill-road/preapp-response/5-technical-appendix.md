@@ -152,3 +152,13 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
   of their back yards, side windows). A gap beside No.1 kept as garden or parking is a useful buffer.
 - Draw the house in two positions on sheet 03 (west and centred) with the distance to No.1's gable
   dimensioned, then run sheet 13 on both.
+
+## Update: the bedroom's side window is its only window
+- BRE 209 gives bedrooms less weight than living rooms and kitchens, and sunlight is mainly
+  tested for main living rooms. But with no other window, any loss of daylight to the bedroom is a
+  loss of all its light, so the VSC test and the room's daylight distribution need to be
+  run and reported honestly.
+- The design must keep the new house clear of the 25° line from the centre of this window, or show
+  by calculation that the loss is within BRE limits. If it cannot, reduce height, reduce the
+  footprint, or increase the gap. Alternatively, the owner could add or change a window to this
+  bedroom (check permitted development and any Article 4 direction).
