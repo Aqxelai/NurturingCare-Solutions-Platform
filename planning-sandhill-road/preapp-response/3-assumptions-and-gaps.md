@@ -27,7 +27,7 @@
 |---|---|---|---|
 | 1 | North is up | Aerial convention; not surveyed | Sunlight tests wrong |
 | 2 | The house directly north of the plot, at the south end of the Cleethorpes Avenue terrace, is No.1 | Aerial shows a terrace labelled 7 and 3; No.1 is assumed to be the southern end house | Wrong windows tested |
-| 3 | No.1's two side windows face south onto the plot | Officer's email: "side elevation" and "due south" | Test geometry changes |
+| 3 | No.1's two side windows face south onto the plot; the upper one is visible above the hedge in the site photo and the lower (kitchen) one is behind the bush (owner confirmed from the photo) | Officer's email: "side elevation" and "due south" | Test geometry changes |
 | 4 | The earlier plot (about 20.5 × 9.3 m) and house (8.2 × 6.8 m, 110 m² GIA) are concept estimates, not measured | Earlier sheets | Do not repeat them in the application |
 | 5 | The officer's "properties to the east of Sandyhill Road" may mean Nos. 52/54 across Cleethorpes Avenue or the adjoining Nos. 56–60 to the west | Aerial | Wrong building line |
 | 6 | A 9.3 m² bedroom is a single (7.5 m² minimum). 4b5p therefore needs one double (11.5 m², 2.75 m wide) plus three singles | NDSS | Occupancy label rejected |
@@ -49,6 +49,9 @@
 | Conflict | Ask whether the Council's sale terms give you any first right, or restrict use. |
 
 ## C. Questions for you
+
+0. The photo also shows a small window on the wall to the right of the gable, near the downpipe. What room does it serve? (If it is the bedroom's, the bedroom has another window.)
+
 
 1. Have Property Transactions agreed terms, or is the sale conditional on planning? (The email shows you are interested in buying; you do not own the land yet.)
 2. Have you got, or can you commission, a topographical survey?
