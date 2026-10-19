@@ -19,6 +19,7 @@
 | 13 | Purchase terms with Property Transactions (the applicant is interested in buying; not yet owner), price, budget, any covenant | 8 |
 | 14 | Site history and use; any Council disposal papers (Property Transactions) | 8 |
 | 15 | Pre-app reference number | letter |
+| 17 | Boundary of No.1's back yard, how much garden would be left for No.1, and the position of No.1's rear windows (living room, kitchen back door) | 2, 5 |
 | 16 | Visibility splay lengths and kerb details at the Cleethorpes Avenue junction | 8 |
 
 ## B. Assumptions made in this pack (confirm or correct)
@@ -37,6 +38,8 @@
 | 10 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 
 | 11 | Intended house: 4 bedrooms. Persons assumed 5 (4b5p, 97 m²) because bedrooms 2–4 are single size; 6 persons would need two doubles and 106 m² | Owner's answer | Space standard fails |
+
+| 12 | The back yard to the left (west) of No.1 is part of No.1's own garden (the user's land) and could be added inside the red line. NOT yet confirmed with title or survey | Owner's statement | Wrong red line and ownership certificate |
 
 ## B2. No.1 Cleethorpes Avenue is owned by the user (new)
 | Effect | Detail |

@@ -170,3 +170,20 @@ No heights or distances are read from the photo; all are `[TO BE SURVEYED]`.
   second pre-application); it fits but fails sheet 13 (lower the ridge or reduce footprint); it will
   not fit the west end at the building line (fall back to Option B, a 2–3 bed house).
 - Tell the officer plainly that the four-bedroom house is the hardest case for points 3–5.
+
+## Using No.1's back yard (to the west) for the house
+- Benefit: more width and depth than the shallow plot, which may let a 4-bedroom house fit
+  at the building line.
+- Risk 1 (important): No.1's rear faces west onto that yard. The kitchen's other light (back door
+  glazing) and the living room windows face it. Building there could cut the light that made the
+  kitchen acceptable. So test the rear windows as well as the two side windows, and keep the house
+  clear of the 25° line from each.
+- Risk 2: the officer may treat it as garden/backland development. Check the NPPF policy on residential
+  gardens and the Manchester guidance (wording not verified), and the privacy distances between the
+  new house and No.1's rear windows. Keep a usable garden for No.1 (2-bed house; size
+  [TO BE CONFIRMED against Council guidance]).
+- Risk 3: the red line must then include part of your own garden. Certificate A applies to land you
+  own, B to the Council's plot; both parts need to be shown on the location plan.
+- Neighbours west of the yard (the gardens and houses beyond) need their privacy and light checked.
+- Add to the drawing schedule: sheet 12 to include the rear elevation of No.1, and sheets 02-03 to
+  show the extended red line and No.1's remaining garden.
