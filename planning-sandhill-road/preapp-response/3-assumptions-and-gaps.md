@@ -33,10 +33,22 @@
 | 6 | A 9.3 m² bedroom is a single (7.5 m² minimum). 4b5p therefore needs one double (11.5 m², 2.75 m wide) plus three singles | NDSS | Occupancy label rejected |
 | 7 | Policies and thresholds in `5-technical-appendix.md` are named from memory | – | Check against current documents |
 
+## B2. No.1 Cleethorpes Avenue is owned by the user (new)
+| Effect | Detail |
+|---|---|
+| Evidence | You can photograph and measure the two side windows from inside and outside, and say what rooms they serve (rows 6–7 above). Ask the surveyor to include them. |
+| Hedge | If the hedge between the plot and No.1 is on your land, it is outside the red line and under your control; the surveyor and title will show this. |
+| Amenity | Your consent helps with rights of light and party-wall disputes, but planning still assesses the harm to any future occupier. It will not bind later owners or tenants. |
+| Options | Alter or relocate the side windows, or add other light to the rooms. If No.1 is a single house this is often permitted development, but check whether it is flats or has an Article 4 direction. |
+| Forms and honesty | Declare the interest to the Council. A connection between the applicant and the owner of No.1 should be stated openly in the letter and in any application. Certificate B is still needed for the plot. |
+| Conflict | Ask whether the Council's sale terms give you any first right, or restrict use. |
+
 ## C. Questions for you
 
 1. Have Property Transactions agreed terms, or is the sale conditional on planning? (The email shows you are interested in buying; you do not own the land yet.)
 2. Have you got, or can you commission, a topographical survey?
 3. Can you photograph No.1's side windows (outside) and say what rooms they serve?
 4. How many people is the house for?
-5. What is your budget for survey, architect and daylight report?
+5. Are you the applicant, or connected to her? Is No.1 lived in by you, or let (and is it one house or flats)?
+6. What rooms do the two side windows serve, and are they the only light to those rooms?
+7. What is your budget for survey, architect and daylight report?
