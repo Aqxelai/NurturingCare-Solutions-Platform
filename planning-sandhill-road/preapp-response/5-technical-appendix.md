@@ -334,3 +334,11 @@ Chosen at the owner's request to propose whatever is most likely to be accepted.
 - Siting warning: my rough aerial check found little plot depth behind the neighbours' building line at the west
   end, so the house probably cannot sit at the extreme west end. In the visual it is placed mid-plot. The survey
   decides the position, and a house nearer No.1 would need the daylight tests to pass.
+
+## Siting and style revised (owner's instruction)
+- The house is drawn next to the west neighbour, with its front wall on the neighbours' front line and
+  the parking forecourt to its right, not in the middle of the plot. The earlier mid-plot placement is withdrawn.
+- Style follows the semi-detached houses to the west: red brick ground floor, white render at first floor,
+  white windows, dark pitched roof with solar panels and a ridge parallel to the street. Roof, height and
+  materials must still be matched to the surveyed neighbours.
+- The earlier warning stands: the survey must show whether enough plot lies behind that line at the west end.
