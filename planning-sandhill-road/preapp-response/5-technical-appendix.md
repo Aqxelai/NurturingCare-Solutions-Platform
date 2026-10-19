@@ -237,3 +237,12 @@ Qualitative only; the survey must measure everything.
 - Sizes and heights cannot be taken from these photos because of perspective and the shrubs. Use the
   surveyor's measurements. A straight-on photo of the gable from the footway, with a tape or
   a 1 m rule held against the wall, would let the surveyor check the sizes quickly.
+
+## Garden between No.1's gable and the timber fence (owner's statement)
+- The photos show a timber fence at the back of the plot, near No.1's gable. The owner says the
+  garden of No.1 runs from the end of the house to that fence and that this length can be used for the house.
+- A fence is not proof of the legal boundary. Get the Land Registry title plan for No.1 and have the
+  surveyor plot it with the Council's plot.
+- If the house is built partly on this garden, the red line includes it, and the earlier risks apply: loss of
+  garden for No.1, light to No.1's rear windows, and the officer's view on garden development.
+- Use the owner's tape measurements only as a first estimate; draw nothing at scale until surveyed.
